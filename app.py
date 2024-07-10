@@ -13,7 +13,7 @@ app = Flask(__name__)
 def home():
     return render_template('index.html')
 
-@app.route("/user", methods=['POST'])
+@app.route("/query", methods=['POST'])
 def user_query():
     data = request.get_json()
     print(data)
@@ -25,13 +25,6 @@ def user_query():
     response_object.status_code = 200
     return response_object
 
-@app.route("/test", methods=["GET", "POST"])
-def test():
-    if (request.method == "POST"):
-        sleep(5)
-        data = request.get_json()
-        return jsonify({"response": f"Hello {data["name"]}"})
-    return jsonify({"response": "Hello, World!"})
 
 if __name__ == "__main__":
     app.run(debug=True)
