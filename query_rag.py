@@ -2,14 +2,13 @@ from langchain_community.vectorstores import Chroma
 from langchain.prompts import ChatPromptTemplate
 from langchain_community.llms.ollama import Ollama
 # from langchain_community.chat_models import ChatOllama
-from langchain_core.output_parsers import StrOutputParser
-from langchain.chains import retrieval_qa
 from get_embedding_function import get_embedding_function
 import textwrap
 
 
 
 CHROMA_PATH = "chroma"
+SENSOR_DATA_PATH = "chromaSensorData"
 PROMPT_TEMPLATE = """<s> [INST] You are an assistant for question-answering tasks about Chariot Solutions. Use the following pieces of retrieved context 
                         to answer the question. If you don't know the answer, just say that you don't know. [/INST] </s> 
 Answer the question based only on the following context:
@@ -47,14 +46,6 @@ Answer the question based on the above context: {question}
 # ### Response:
 # """
 
-def load_qa_chain(retriever, llm, prompt):
-    return retrieval_qa.from_chain_type(
-        llm=llm,
-        retriever=retriever, # here we are using the vectorstore as a retriever
-        chain_type="stuff",
-        return_source_documents=True, # including source documents in output
-        chain_type_kwargs={'prompt': prompt} # customizing the prompt
-    )
 
 def get_response(query, chain):
     # Getting response from chain
@@ -64,10 +55,10 @@ def get_response(query, chain):
     wrapped_text = textwrap.fill(response['result'], width=100)
     print(wrapped_text)
 
-def query_rag(query_text: str):
+def query_rag(query_text: str, chroma_path: str):
     # Prepare the DB.
     embedding_function = get_embedding_function()
-    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
+    db = Chroma(persist_directory=chroma_path, embedding_function=embedding_function)
     print("Chroma ready.")
 
     # Search the DB.

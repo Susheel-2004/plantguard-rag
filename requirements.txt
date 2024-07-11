@@ -6,3 +6,4 @@ boto3
 Flask
 pypdf
 requests
+pandas
