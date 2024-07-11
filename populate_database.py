@@ -1,7 +1,7 @@
 import argparse
 import os
 import shutil
-from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader, PyPDFDirectoryLoader
 # from langchain.document_loaders.pdf import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
@@ -25,14 +25,20 @@ def main():
 
     # Create (or update) the data store.
     documents = load_documents()
+    pdfs = load_pdf()
     chunks = split_documents(documents)
+    pdf_chunks = split_documents(pdfs)
     add_to_chroma(chunks)
+    add_to_chroma(pdf_chunks)
 
 
 def load_documents():
     document_loader = TextLoader("data/crop_conditions.txt")
+    
     return document_loader.load()
-
+def load_pdf():
+    pdf_Loader = PyPDFDirectoryLoader("data")
+    return pdf_Loader.load()
 
 def split_documents(documents: list[Document]):
     text_splitter = RecursiveCharacterTextSplitter(
