@@ -9,8 +9,9 @@ import textwrap
 
 CHROMA_PATH = "chroma"
 SENSOR_DATA_PATH = "chromaSensorData"
-PROMPT_TEMPLATE = """<s> [INST] You are an assistant for question-answering tasks about Chariot Solutions. Use the following pieces of retrieved context 
-                        to answer the question. If you don't know the answer, just say that you don't know. [/INST] </s> 
+PROMPT_TEMPLATE = """
+<s> [INST] Use the following pieces of retrieved context to answer the question.
+If you don't know the answer, just say that you don't know. [/INST] </s> 
 Answer the question based only on the following context:
 
 {context}
@@ -55,10 +56,10 @@ def get_response(query, chain):
     wrapped_text = textwrap.fill(response['result'], width=100)
     print(wrapped_text)
 
-def query_rag(query_text: str, chroma_path: str):
+def query_rag(query_text: str):
     # Prepare the DB.
     embedding_function = get_embedding_function()
-    db = Chroma(persist_directory=chroma_path, embedding_function=embedding_function)
+    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
     print("Chroma ready.")
 
     # Search the DB.

@@ -21,16 +21,29 @@ def main():
     # args = parser.parse_args()
     # if args.reset:
     #     print("✨ Clearing Database")
-    clear_database()
+    # clear_database()
 
     # Create (or update) the data store.
     documents = load_documents()
     pdfs = load_pdf()
+    table = load_csv()
     chunks = split_documents(documents)
     pdf_chunks = split_documents(pdfs)
+    table_chunks = split_documents(table)
     add_to_chroma(chunks)
     add_to_chroma(pdf_chunks)
+    add_to_chroma(table_chunks)
 
+def add_tuple_to_chroma(tuple):
+    with open("data/crop_conditions.txt", "a") as f:
+        f.write(tuple)
+    documents = load_csv()
+    chunks = split_documents(documents)
+    add_to_chroma(chunks)
+
+def load_csv():
+    csv_loader = CSVLoader("data/rice_crop_dataset.csv")
+    return csv_loader.load()
 
 def load_documents():
     document_loader = TextLoader("data/crop_conditions.txt")

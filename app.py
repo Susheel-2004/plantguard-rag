@@ -1,11 +1,12 @@
 from flask import Flask, request, render_template, jsonify, make_response
 from time import sleep
 from query_rag import query_rag
+from populate_general_database import add_tuple_to_chroma
 
 app = Flask(__name__)
 
 CHROMA_PATH = "chroma"
-SENSOR_DATA_PATH = "chromaSensorData"
+# SENSOR_DATA_PATH = "chromaSensorData"
 @app.route('/')
 def home():
     return render_template('index.html')
@@ -13,17 +14,19 @@ def home():
 @app.route("/query", methods=['POST'])
 def user_query():
     data = request.get_json()
-    path = ""
-    if data['class'] == "general-plant-health":
-        path = CHROMA_PATH
-    elif data['class'] == "plant-analysis":
-        path = SENSOR_DATA_PATH
     query_text = data['question']
-    response = query_rag(query_text, path)
+    response = query_rag(query_text)
     response_object = make_response(jsonify({"response":response}))
     response_object.status_code = 200
     return response_object
 
+@app.route("/populate", methods=['POST'])
+def populate():
+    data = request.get_json()
+    row = data['tuple']
+    print(row)
+
+    return jsonify({"response":"Populating the database. This may take a while."})
 
 
 if __name__ == "__main__":
