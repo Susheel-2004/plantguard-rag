@@ -7,6 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores import Chroma
+from csv import DictWriter
 
 
 CHROMA_PATH = "chroma"
@@ -30,13 +31,15 @@ def main():
     chunks = split_documents(documents)
     pdf_chunks = split_documents(pdfs)
     table_chunks = split_documents(table)
+    print(pdf_chunks)
     add_to_chroma(chunks)
     add_to_chroma(pdf_chunks)
     add_to_chroma(table_chunks)
 
 def add_tuple_to_chroma(tuple):
-    with open("data/crop_conditions.txt", "a") as f:
-        f.write(tuple)
+    with open("data/rice_crop_dataset.csv", "a") as f:
+        writer = DictWriter(f, fieldnames=["timestamp","N", "P", "K", "humidity", "moisture", "ph", "rainfall", "crop"])
+        writer.writerow(tuple)
     documents = load_csv()
     chunks = split_documents(documents)
     add_to_chroma(chunks)

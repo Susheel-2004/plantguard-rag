@@ -24,6 +24,7 @@ def user_query():
 def populate():
     data = request.get_json()
     row = data['tuple']
+    add_tuple_to_chroma(row)
     print(row)
 
     return jsonify({"response":"Populating the database. This may take a while."})

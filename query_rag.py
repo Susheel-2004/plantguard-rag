@@ -10,42 +10,24 @@ import textwrap
 CHROMA_PATH = "chroma"
 SENSOR_DATA_PATH = "chromaSensorData"
 PROMPT_TEMPLATE = """
-<s> [INST] Use the following pieces of retrieved context to answer the question.
-If you don't know the answer, just say that you don't know. [/INST] </s> 
-Answer the question based only on the following context:
+Answer the question based on the following context and if you don't know the answer, use your own knowledge.:
 
 {context}
 
 ---
 
-Answer the question based on the above context: {question}
+Answer the question based on the above context and if you don't know the answer, use your own knowledge: {question}
 """
-# prompt = """
-# ### System:
-# You are an AI Assistant that follows instructions extreamly well. \
-# Help as much as you can.
+NEW_PROMPT_TEMPLATE = """
+Provide a clear and concise answer to the question below based on the context related to plants. Do not include any phrases that indicate the source of the information.
 
-# ### User:
-# {prompt}
+{context}
 
-# ### Response:
+---
 
-# """
+Question: {question}
 
-# template = """
-# ### System:
-# You are an respectful and honest assistant. You have to answer the user's \
-# questions using only the context provided to you. If you don't know the answer, \
-# just say you don't know. Don't try to make up an answer.
-
-# ### Context:
-# {context}
-
-# ### User:
-# {question}
-
-# ### Response:
-# """
+"""
 
 
 def get_response(query, chain):
@@ -67,7 +49,7 @@ def query_rag(query_text: str):
     print("Search complete.")
 
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
-    prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+    prompt_template = ChatPromptTemplate.from_template(NEW_PROMPT_TEMPLATE)
     prompt = prompt_template.format(context=context_text, question=query_text)
     print("Prompt ready.")
     
