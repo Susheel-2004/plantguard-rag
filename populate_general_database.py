@@ -1,13 +1,12 @@
 import argparse
 import os
 import shutil
-from langchain_community.document_loaders import TextLoader, PyPDFDirectoryLoader, CSVLoader
+from langchain_community.document_loaders import TextLoader, PyPDFDirectoryLoader, DirectoryLoader
 # from langchain.document_loaders.pdf import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores import Chroma
-from csv import DictWriter
 
 
 CHROMA_PATH = "chroma"
@@ -27,30 +26,31 @@ def main():
     # Create (or update) the data store.
     documents = load_documents()
     pdfs = load_pdf()
-    table = load_csv()
+    table = load_table()
     chunks = split_documents(documents)
     pdf_chunks = split_documents(pdfs)
     table_chunks = split_documents(table)
-    print(pdf_chunks)
     add_to_chroma(chunks)
     add_to_chroma(pdf_chunks)
     add_to_chroma(table_chunks)
 
 def add_tuple_to_chroma(tuple):
-    with open("data/rice_crop_dataset.csv", "a") as f:
-        writer = DictWriter(f, fieldnames=["timestamp","N", "P", "K", "humidity", "moisture", "ph", "rainfall", "crop"])
-        writer.writerow(tuple)
-    documents = load_csv()
+    with open("data/temp.txt", "w") as f:
+        f.write(tuple)
+    documents = TextLoader("data/temp.txt").load()
     chunks = split_documents(documents)
     add_to_chroma(chunks)
+    os.remove("data/temp.txt")
 
-def load_csv():
-    csv_loader = CSVLoader("data/rice_crop_dataset.csv")
-    return csv_loader.load()
+def load_table():
+    table_loader = TextLoader("data/sensor_log.txt")
+    return table_loader.load()
 
 def load_documents():
-    document_loader = TextLoader("data/crop_conditions.txt")
-    return document_loader.load()
+    path = 'data'
+    loader = DirectoryLoader(path, glob="**/*.txt", loader_cls=TextLoader)
+    return loader.load()
+
 
 def load_pdf():
     pdf_Loader = PyPDFDirectoryLoader("data")

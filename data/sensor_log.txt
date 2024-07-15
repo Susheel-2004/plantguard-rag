@@ -1,0 +1,579 @@
+For my Rice crop, at time 00:00:00 on 2024-07-11 the Nitrogen value (n value) was 83.13871205225608, Phosphorus value (p value) was 50.0013251189144, potassium value (k value) was 95.98432653582933, humidity was 71.35783134927887, soil pH was 6.484788579368064, and temperature was 24.402022704131824.
+
+For my Rice crop, at time 00:05:00 on 2024-07-11 the Nitrogen value (n value) was 113.59468710620914, Phosphorus value (p value) was 53.78872825150744, potassium value (k value) was 87.0996822737591, humidity was 78.95114689922332, soil pH was 6.265903674543958, and temperature was 29.880114755247867.
+
+For my Rice crop, at time 00:10:00 on 2024-07-11 the Nitrogen value (n value) was 105.70301177574892, Phosphorus value (p value) was 58.49679889664501, potassium value (k value) was 89.92135973617478, humidity was 85.22975004200482, soil pH was 6.119116273415881, and temperature was 30.37286430593211.
+
+For my Rice crop, at time 00:15:00 on 2024-07-11 the Nitrogen value (n value) was 82.26228229993603, Phosphorus value (p value) was 56.88083407547014, potassium value (k value) was 89.07621132251471, humidity was 78.25758833765785, soil pH was 6.17454657102019, and temperature was 26.234506722105007.
+
+For my Rice crop, at time 00:20:00 on 2024-07-11 the Nitrogen value (n value) was 91.62395177548945, Phosphorus value (p value) was 41.818503059151645, potassium value (k value) was 89.76839614131774, humidity was 75.973872793061, soil pH was 6.29483106660159, and temperature was 28.14157984978885.
+
+For my Rice crop, at time 00:25:00 on 2024-07-11 the Nitrogen value (n value) was 105.16235264291096, Phosphorus value (p value) was 53.58311704824919, potassium value (k value) was 90.12519625103968, humidity was 73.71423885345169, soil pH was 6.742617044207942, and temperature was 29.08645730306193.
+
+For my Rice crop, at time 00:30:00 on 2024-07-11 the Nitrogen value (n value) was 109.371641286362, Phosphorus value (p value) was 51.91959235834457, potassium value (k value) was 91.80349350489809, humidity was 74.76921933626018, soil pH was 6.808648287974102, and temperature was 30.39414868589965.
+
+For my Rice crop, at time 00:35:00 on 2024-07-11 the Nitrogen value (n value) was 84.78253855686832, Phosphorus value (p value) was 57.71172783217822, potassium value (k value) was 88.93289946698734, humidity was 84.57023866564356, soil pH was 6.882530076525203, and temperature was 28.406265287857583.
+
+For my Rice crop, at time 00:40:00 on 2024-07-11 the Nitrogen value (n value) was 108.4254122497715, Phosphorus value (p value) was 59.10588501026833, potassium value (k value) was 87.16720338620489, humidity was 76.60377633137648, soil pH was 6.826133861920346, and temperature was 34.301861728352534.
+
+For my Rice crop, at time 00:45:00 on 2024-07-11 the Nitrogen value (n value) was 85.96086591667803, Phosphorus value (p value) was 51.71186132111293, potassium value (k value) was 83.48202147339829, humidity was 84.3302899560587, soil pH was 6.6684455900870265, and temperature was 33.37194456981597.
+
+For my Rice crop, at time 00:50:00 on 2024-07-11 the Nitrogen value (n value) was 100.5724324985746, Phosphorus value (p value) was 54.915828537906535, potassium value (k value) was 83.7619534383128, humidity was 92.62127689308066, soil pH was 6.5610750818396095, and temperature was 30.390037004901828.
+
+For my Rice crop, at time 00:55:00 on 2024-07-11 the Nitrogen value (n value) was 112.38918735697426, Phosphorus value (p value) was 48.47425548583209, potassium value (k value) was 90.36774586181708, humidity was 74.26805110910239, soil pH was 6.662742962799305, and temperature was 31.36437194957706.
+
+For my Rice crop, at time 01:00:00 on 2024-07-11 the Nitrogen value (n value) was 115.1368092950416, Phosphorus value (p value) was 45.43318714097614, potassium value (k value) was 95.71526088793064, humidity was 77.22526952638239, soil pH was 6.370661669948314, and temperature was 31.50564847992408.
+
+For my Rice crop, at time 01:05:00 on 2024-07-11 the Nitrogen value (n value) was 97.66529488675116, Phosphorus value (p value) was 55.58747947086325, potassium value (k value) was 86.52103239235933, humidity was 89.00166699895621, soil pH was 6.903585034662838, and temperature was 34.1845985731213.
+
+For my Rice crop, at time 01:10:00 on 2024-07-11 the Nitrogen value (n value) was 79.1718776181195, Phosphorus value (p value) was 49.99987601319573, potassium value (k value) was 93.49328695635953, humidity was 78.54507881188668, soil pH was 6.356718538310251, and temperature was 32.743360253985486.
+
+For my Rice crop, at time 01:15:00 on 2024-07-11 the Nitrogen value (n value) was 102.84017575508202, Phosphorus value (p value) was 53.65001719681445, potassium value (k value) was 86.62844746356794, humidity was 79.45008236685541, soil pH was 6.965251089922188, and temperature was 32.01452346272984.
+
+For my Rice crop, at time 01:20:00 on 2024-07-11 the Nitrogen value (n value) was 108.73058737424972, Phosphorus value (p value) was 54.35596140979112, potassium value (k value) was 83.59617715987424, humidity was 81.40767556250617, soil pH was 6.216104093353257, and temperature was 28.57148498527961.
+
+For my Rice crop, at time 01:25:00 on 2024-07-11 the Nitrogen value (n value) was 112.97869748066611, Phosphorus value (p value) was 52.269160461756805, potassium value (k value) was 86.58527573058653, humidity was 81.57696621396707, soil pH was 6.825712496512734, and temperature was 27.99965487070657.
+
+For my Rice crop, at time 01:30:00 on 2024-07-11 the Nitrogen value (n value) was 113.2973809815445, Phosphorus value (p value) was 49.23590191996266, potassium value (k value) was 89.27089949183643, humidity was 82.88816853159433, soil pH was 6.660536182074272, and temperature was 26.799595862939928.
+
+For my Rice crop, at time 01:35:00 on 2024-07-11 the Nitrogen value (n value) was 94.41942595555172, Phosphorus value (p value) was 43.21958834595464, potassium value (k value) was 98.3085730711824, humidity was 81.1585770306147, soil pH was 6.0443507465016815, and temperature was 26.75334257386409.
+
+For my Rice crop, at time 01:40:00 on 2024-07-11 the Nitrogen value (n value) was 83.06152344369139, Phosphorus value (p value) was 48.275374039011, potassium value (k value) was 94.7906801705222, humidity was 84.39315451541104, soil pH was 6.287515757887853, and temperature was 33.224566404097594.
+
+For my Rice crop, at time 01:45:00 on 2024-07-11 the Nitrogen value (n value) was 99.13918232242176, Phosphorus value (p value) was 52.00559383135215, potassium value (k value) was 81.08691527600791, humidity was 80.42780267868099, soil pH was 6.36037091702833, and temperature was 27.35814664580794.
+
+For my Rice crop, at time 01:50:00 on 2024-07-11 the Nitrogen value (n value) was 92.15350696336353, Phosphorus value (p value) was 50.02446518023224, potassium value (k value) was 99.4985931669558, humidity was 85.92494809076008, soil pH was 6.504060096387616, and temperature was 26.878037127708804.
+
+For my Rice crop, at time 01:55:00 on 2024-07-11 the Nitrogen value (n value) was 90.80827139268489, Phosphorus value (p value) was 49.84620996288774, potassium value (k value) was 81.02551768954669, humidity was 84.84769492197051, soil pH was 6.75576511806873, and temperature was 32.04951959088987.
+
+For my Rice crop, at time 02:00:00 on 2024-07-11 the Nitrogen value (n value) was 110.78527429725273, Phosphorus value (p value) was 42.747593213594335, potassium value (k value) was 92.19758735305304, humidity was 88.80801429310903, soil pH was 6.722885606953927, and temperature was 34.0511374917718.
+
+For my Rice crop, at time 02:05:00 on 2024-07-11 the Nitrogen value (n value) was 84.50605304342838, Phosphorus value (p value) was 52.45026824518355, potassium value (k value) was 99.73123016479347, humidity was 77.51950427961265, soil pH was 6.438314550948003, and temperature was 26.284641830614387.
+
+For my Rice crop, at time 02:10:00 on 2024-07-11 the Nitrogen value (n value) was 100.57872678306909, Phosphorus value (p value) was 52.4479599282274, potassium value (k value) was 99.25491845815218, humidity was 69.10210633329294, soil pH was 6.380526194926577, and temperature was 30.665997705197924.
+
+For my Rice crop, at time 02:15:00 on 2024-07-11 the Nitrogen value (n value) was 97.21760483640048, Phosphorus value (p value) was 44.41385343990581, potassium value (k value) was 92.66932069640649, humidity was 69.20159026799553, soil pH was 6.365578484815455, and temperature was 30.595164148641643.
+
+For my Rice crop, at time 02:20:00 on 2024-07-11 the Nitrogen value (n value) was 113.38313299586034, Phosphorus value (p value) was 60.447779149807616, potassium value (k value) was 82.700131690854, humidity was 86.70681274206154, soil pH was 6.050875902077318, and temperature was 31.973498610778144.
+
+For my Rice crop, at time 02:25:00 on 2024-07-11 the Nitrogen value (n value) was 116.96831161537015, Phosphorus value (p value) was 51.58971156998364, potassium value (k value) was 98.39028417959946, humidity was 78.66847837200396, soil pH was 6.553693538073557, and temperature was 32.286417684530065.
+
+For my Rice crop, at time 02:30:00 on 2024-07-11 the Nitrogen value (n value) was 89.06305886361764, Phosphorus value (p value) was 43.14505438705934, potassium value (k value) was 80.4688128007752, humidity was 71.62988271117023, soil pH was 6.536114484012293, and temperature was 29.240088497196787.
+
+For my Rice crop, at time 02:35:00 on 2024-07-11 the Nitrogen value (n value) was 94.16699771189508, Phosphorus value (p value) was 43.87021438748032, potassium value (k value) was 79.87691599129653, humidity was 89.82688251467718, soil pH was 6.625977898351693, and temperature was 28.648509950454866.
+
+For my Rice crop, at time 02:40:00 on 2024-07-11 the Nitrogen value (n value) was 108.63166743326244, Phosphorus value (p value) was 44.992574766851845, potassium value (k value) was 86.50442582251091, humidity was 78.33450512142353, soil pH was 6.193256489493253, and temperature was 23.574832683517872.
+
+For my Rice crop, at time 02:45:00 on 2024-07-11 the Nitrogen value (n value) was 108.20622783347862, Phosphorus value (p value) was 58.49007992531939, potassium value (k value) was 93.1253063580024, humidity was 88.08344124982132, soil pH was 6.589774369730509, and temperature was 29.70469791955432.
+
+For my Rice crop, at time 02:50:00 on 2024-07-11 the Nitrogen value (n value) was 110.19851172953148, Phosphorus value (p value) was 42.44596102497709, potassium value (k value) was 88.9724633029389, humidity was 78.21315056459322, soil pH was 6.435098755230076, and temperature was 29.46877538037011.
+
+For my Rice crop, at time 02:55:00 on 2024-07-11 the Nitrogen value (n value) was 110.77165055823038, Phosphorus value (p value) was 52.50865429243746, potassium value (k value) was 87.58934914283607, humidity was 79.95412492929314, soil pH was 6.532118829724944, and temperature was 26.17935765504686.
+
+For my Rice crop, at time 03:00:00 on 2024-07-11 the Nitrogen value (n value) was 90.13042090809094, Phosphorus value (p value) was 44.88842411427617, potassium value (k value) was 96.90001251790444, humidity was 75.42756290609103, soil pH was 6.171384535941977, and temperature was 29.5763013418619.
+
+For my Rice crop, at time 03:05:00 on 2024-07-11 the Nitrogen value (n value) was 86.54164257543934, Phosphorus value (p value) was 57.096898670426185, potassium value (k value) was 85.81428088546096, humidity was 88.02958285042376, soil pH was 6.982308133065319, and temperature was 27.52218242304508.
+
+For my Rice crop, at time 03:10:00 on 2024-07-11 the Nitrogen value (n value) was 113.64990278755263, Phosphorus value (p value) was 42.022348323578974, potassium value (k value) was 99.38701006440073, humidity was 74.1868315677991, soil pH was 6.596383782688452, and temperature was 30.055601784413927.
+
+For my Rice crop, at time 03:15:00 on 2024-07-11 the Nitrogen value (n value) was 97.21885767413583, Phosphorus value (p value) was 51.56720248256045, potassium value (k value) was 83.827313106719, humidity was 69.05363550995843, soil pH was 6.5471364761740505, and temperature was 25.08930647221384.
+
+For my Rice crop, at time 03:20:00 on 2024-07-11 the Nitrogen value (n value) was 110.29559221789356, Phosphorus value (p value) was 53.24822629455169, potassium value (k value) was 94.87519658024448, humidity was 80.92472683261421, soil pH was 6.635984157160713, and temperature was 28.550622744446173.
+
+For my Rice crop, at time 03:25:00 on 2024-07-11 the Nitrogen value (n value) was 84.13987961927134, Phosphorus value (p value) was 54.667150395535145, potassium value (k value) was 100.9267626988499, humidity was 82.4082433098253, soil pH was 6.71281698022258, and temperature was 28.48823888940157.
+
+For my Rice crop, at time 03:30:00 on 2024-07-11 the Nitrogen value (n value) was 115.63630693197948, Phosphorus value (p value) was 54.97530635370652, potassium value (k value) was 83.6454153807949, humidity was 79.33560486923415, soil pH was 6.325988557280676, and temperature was 32.14222928266833.
+
+For my Rice crop, at time 03:35:00 on 2024-07-11 the Nitrogen value (n value) was 92.3634437912256, Phosphorus value (p value) was 43.72097659218493, potassium value (k value) was 95.84401099637746, humidity was 72.54697254167029, soil pH was 7.069207856338331, and temperature was 26.14475160302145.
+
+For my Rice crop, at time 03:40:00 on 2024-07-11 the Nitrogen value (n value) was 89.31488740766245, Phosphorus value (p value) was 41.99136769255626, potassium value (k value) was 94.93766437530398, humidity was 83.05699067646552, soil pH was 6.387915021618515, and temperature was 33.297445658361696.
+
+For my Rice crop, at time 03:45:00 on 2024-07-11 the Nitrogen value (n value) was 83.56308405624601, Phosphorus value (p value) was 58.88358535321279, potassium value (k value) was 93.4589612728779, humidity was 68.97843988339947, soil pH was 6.2771906640486845, and temperature was 26.63346543240646.
+
+For my Rice crop, at time 03:50:00 on 2024-07-11 the Nitrogen value (n value) was 112.7220582631876, Phosphorus value (p value) was 52.05096495434026, potassium value (k value) was 93.39870157150352, humidity was 87.7464202149821, soil pH was 6.609938224430236, and temperature was 28.0540149175588.
+
+For my Rice crop, at time 03:55:00 on 2024-07-11 the Nitrogen value (n value) was 98.99189425969831, Phosphorus value (p value) was 52.69168148614613, potassium value (k value) was 90.9319131419045, humidity was 73.21141835901147, soil pH was 6.84856710755772, and temperature was 34.37195885118041.
+
+For my Rice crop, at time 04:00:00 on 2024-07-11 the Nitrogen value (n value) was 119.06214329636488, Phosphorus value (p value) was 44.94578082551018, potassium value (k value) was 79.93168113037025, humidity was 78.80805500687497, soil pH was 6.398714469923956, and temperature was 25.775677606358126.
+
+For my Rice crop, at time 04:05:00 on 2024-07-11 the Nitrogen value (n value) was 84.08936550657094, Phosphorus value (p value) was 54.824194504888, potassium value (k value) was 86.54409878132353, humidity was 81.74739489906378, soil pH was 6.455737600968142, and temperature was 31.72559776086408.
+
+For my Rice crop, at time 04:10:00 on 2024-07-11 the Nitrogen value (n value) was 112.73066730526214, Phosphorus value (p value) was 47.79563720737158, potassium value (k value) was 88.26766463958603, humidity was 81.96310497821877, soil pH was 6.109708233618616, and temperature was 29.81489193519215.
+
+For my Rice crop, at time 04:15:00 on 2024-07-11 the Nitrogen value (n value) was 96.5341446241317, Phosphorus value (p value) was 54.10016846573095, potassium value (k value) was 96.56140659549315, humidity was 77.4462714562259, soil pH was 6.431841631486788, and temperature was 28.85909797005716.
+
+For my Rice crop, at time 04:20:00 on 2024-07-11 the Nitrogen value (n value) was 96.61955234106956, Phosphorus value (p value) was 46.541995024538906, potassium value (k value) was 80.04961298062926, humidity was 77.83374083377348, soil pH was 6.882055727211594, and temperature was 26.64927974206893.
+
+For my Rice crop, at time 04:25:00 on 2024-07-11 the Nitrogen value (n value) was 106.27485276810413, Phosphorus value (p value) was 41.94672692400624, potassium value (k value) was 82.6678715757536, humidity was 85.52697522236983, soil pH was 6.253054508105227, and temperature was 24.47141532616995.
+
+For my Rice crop, at time 04:30:00 on 2024-07-11 the Nitrogen value (n value) was 120.47633299641424, Phosphorus value (p value) was 51.668013974120846, potassium value (k value) was 90.8257524539848, humidity was 90.83043349253091, soil pH was 6.074337865765014, and temperature was 34.95052980798948.
+
+For my Rice crop, at time 04:35:00 on 2024-07-11 the Nitrogen value (n value) was 93.76496549927764, Phosphorus value (p value) was 40.98501492319877, potassium value (k value) was 83.05539605751194, humidity was 78.20445215693269, soil pH was 6.267669872117438, and temperature was 26.32208486790625.
+
+For my Rice crop, at time 04:40:00 on 2024-07-11 the Nitrogen value (n value) was 118.47238490326149, Phosphorus value (p value) was 57.96462692226341, potassium value (k value) was 89.26673426827517, humidity was 82.20776620093467, soil pH was 6.315266439577671, and temperature was 29.236703971690204.
+
+For my Rice crop, at time 04:45:00 on 2024-07-11 the Nitrogen value (n value) was 95.60062748136438, Phosphorus value (p value) was 52.33703004638206, potassium value (k value) was 90.31929021309092, humidity was 77.21847942405229, soil pH was 7.092883206333323, and temperature was 33.77315863099383.
+
+For my Rice crop, at time 04:50:00 on 2024-07-11 the Nitrogen value (n value) was 94.17880617345388, Phosphorus value (p value) was 57.31047446595437, potassium value (k value) was 97.18515958665908, humidity was 87.54403477360268, soil pH was 6.000595395720776, and temperature was 30.87494148278021.
+
+For my Rice crop, at time 04:55:00 on 2024-07-11 the Nitrogen value (n value) was 91.67709825055526, Phosphorus value (p value) was 51.80594103429305, potassium value (k value) was 87.03820655980721, humidity was 78.7302001046001, soil pH was 5.912639788676348, and temperature was 29.829356664146307.
+
+For my Rice crop, at time 05:00:00 on 2024-07-11 the Nitrogen value (n value) was 86.46856703782011, Phosphorus value (p value) was 57.97939620704619, potassium value (k value) was 91.05582041881286, humidity was 73.10907093476987, soil pH was 6.903363857803398, and temperature was 31.443209315699985.
+
+For my Rice crop, at time 05:05:00 on 2024-07-11 the Nitrogen value (n value) was 103.03567999816134, Phosphorus value (p value) was 55.40040667790104, potassium value (k value) was 90.55442966999344, humidity was 70.93274731848135, soil pH was 6.272153053243462, and temperature was 35.471215894902905.
+
+For my Rice crop, at time 05:10:00 on 2024-07-11 the Nitrogen value (n value) was 108.9417098722677, Phosphorus value (p value) was 58.96979703822154, potassium value (k value) was 88.42502148529896, humidity was 73.9009980682181, soil pH was 6.34200963545707, and temperature was 33.30679126406348.
+
+For my Rice crop, at time 05:15:00 on 2024-07-11 the Nitrogen value (n value) was 105.39499972745249, Phosphorus value (p value) was 51.05395175235276, potassium value (k value) was 90.58286176104671, humidity was 75.99644377675926, soil pH was 6.455325956510454, and temperature was 28.57596495375313.
+
+For my Rice crop, at time 05:20:00 on 2024-07-11 the Nitrogen value (n value) was 115.01523865400696, Phosphorus value (p value) was 59.12727033838473, potassium value (k value) was 95.29398832095852, humidity was 87.24517564731609, soil pH was 6.726844106815193, and temperature was 33.413354846582266.
+
+For my Rice crop, at time 05:25:00 on 2024-07-11 the Nitrogen value (n value) was 109.36704520749817, Phosphorus value (p value) was 42.22375167790925, potassium value (k value) was 90.46492808643934, humidity was 75.62558992026851, soil pH was 6.331648251916167, and temperature was 27.62024752610924.
+
+For my Rice crop, at time 05:30:00 on 2024-07-11 the Nitrogen value (n value) was 81.57147041946492, Phosphorus value (p value) was 48.482413909475234, potassium value (k value) was 86.32417590876115, humidity was 90.36404670593532, soil pH was 6.357887830743858, and temperature was 26.10014387679235.
+
+For my Rice crop, at time 05:35:00 on 2024-07-11 the Nitrogen value (n value) was 101.49431000414783, Phosphorus value (p value) was 46.69233771405495, potassium value (k value) was 83.67784727401848, humidity was 84.68766433737957, soil pH was 6.838963211510662, and temperature was 26.476932102114947.
+
+For my Rice crop, at time 05:40:00 on 2024-07-11 the Nitrogen value (n value) was 95.60665411854148, Phosphorus value (p value) was 54.54625466797616, potassium value (k value) was 84.391035455828, humidity was 81.51000735360202, soil pH was 6.414903590634737, and temperature was 30.630353938003104.
+
+For my Rice crop, at time 05:45:00 on 2024-07-11 the Nitrogen value (n value) was 95.87780684128592, Phosphorus value (p value) was 48.30818155543248, potassium value (k value) was 81.69766638043383, humidity was 76.38828328699023, soil pH was 5.994129442732752, and temperature was 26.11578466774128.
+
+For my Rice crop, at time 05:50:00 on 2024-07-11 the Nitrogen value (n value) was 90.45742414128976, Phosphorus value (p value) was 42.46014906769042, potassium value (k value) was 94.57467786473606, humidity was 85.60151669916578, soil pH was 6.631790660104692, and temperature was 27.00791587154988.
+
+For my Rice crop, at time 05:55:00 on 2024-07-11 the Nitrogen value (n value) was 90.13295948572078, Phosphorus value (p value) was 49.50690925190903, potassium value (k value) was 94.2393988071601, humidity was 69.69545029224668, soil pH was 7.103321740217586, and temperature was 32.767996266700315.
+
+For my Rice crop, at time 06:00:00 on 2024-07-11 the Nitrogen value (n value) was 78.35611484184254, Phosphorus value (p value) was 45.194417739522855, potassium value (k value) was 87.25483219551829, humidity was 81.2814439606711, soil pH was 6.848558546916916, and temperature was 31.96570355421106.
+
+For my Rice crop, at time 06:05:00 on 2024-07-11 the Nitrogen value (n value) was 107.97979596992374, Phosphorus value (p value) was 56.333124267749206, potassium value (k value) was 95.3269416456807, humidity was 76.80708353808475, soil pH was 6.055263084488916, and temperature was 30.57393284360057.
+
+For my Rice crop, at time 06:10:00 on 2024-07-11 the Nitrogen value (n value) was 117.86275112570242, Phosphorus value (p value) was 54.61393955765252, potassium value (k value) was 85.39981267500104, humidity was 85.57218381683388, soil pH was 6.779328500857562, and temperature was 27.606208500420315.
+
+For my Rice crop, at time 06:15:00 on 2024-07-11 the Nitrogen value (n value) was 92.33598573620591, Phosphorus value (p value) was 44.638306945635165, potassium value (k value) was 97.23325326673805, humidity was 71.42707434882507, soil pH was 5.961282818366955, and temperature was 32.556657325602686.
+
+For my Rice crop, at time 06:20:00 on 2024-07-11 the Nitrogen value (n value) was 109.59522904849337, Phosphorus value (p value) was 52.140505177356125, potassium value (k value) was 98.1881301637162, humidity was 86.84349483351204, soil pH was 6.011712259232182, and temperature was 26.46812914103627.
+
+For my Rice crop, at time 06:25:00 on 2024-07-11 the Nitrogen value (n value) was 99.82694321722803, Phosphorus value (p value) was 58.73075321825139, potassium value (k value) was 80.0952895769283, humidity was 86.48844257218596, soil pH was 6.2715282149977485, and temperature was 29.81986113661952.
+
+For my Rice crop, at time 06:30:00 on 2024-07-11 the Nitrogen value (n value) was 96.12481630679255, Phosphorus value (p value) was 46.05079249334347, potassium value (k value) was 87.53565178254362, humidity was 69.97773130542345, soil pH was 6.625541254612776, and temperature was 29.74039737190542.
+
+For my Rice crop, at time 06:35:00 on 2024-07-11 the Nitrogen value (n value) was 117.80710223493398, Phosphorus value (p value) was 57.03011896523156, potassium value (k value) was 88.82779644144661, humidity was 73.50530907018765, soil pH was 6.612422320099245, and temperature was 28.192328928680027.
+
+For my Rice crop, at time 06:40:00 on 2024-07-11 the Nitrogen value (n value) was 92.57918773948464, Phosphorus value (p value) was 51.93496184399577, potassium value (k value) was 82.77558848908438, humidity was 82.07037797445376, soil pH was 6.826560995164874, and temperature was 25.7346051641658.
+
+For my Rice crop, at time 06:45:00 on 2024-07-11 the Nitrogen value (n value) was 80.28935466062391, Phosphorus value (p value) was 49.96232602441923, potassium value (k value) was 91.40267689990776, humidity was 85.08535914661137, soil pH was 6.785759677488191, and temperature was 29.35392030823349.
+
+For my Rice crop, at time 06:50:00 on 2024-07-11 the Nitrogen value (n value) was 111.38171895196407, Phosphorus value (p value) was 45.680651030514014, potassium value (k value) was 82.50342262838122, humidity was 81.03462778800852, soil pH was 6.925669149719948, and temperature was 24.761693975767077.
+
+For my Rice crop, at time 06:55:00 on 2024-07-11 the Nitrogen value (n value) was 109.31926800750628, Phosphorus value (p value) was 53.13431815978567, potassium value (k value) was 78.44714383349472, humidity was 85.11050022311511, soil pH was 6.48919253571079, and temperature was 30.415325110229475.
+
+For my Rice crop, at time 07:00:00 on 2024-07-11 the Nitrogen value (n value) was 120.40620341357368, Phosphorus value (p value) was 42.28328463738332, potassium value (k value) was 81.33856732353976, humidity was 82.5673714265483, soil pH was 6.168812765341061, and temperature was 31.487866183055235.
+
+For my Rice crop, at time 07:05:00 on 2024-07-11 the Nitrogen value (n value) was 95.72756888829926, Phosphorus value (p value) was 56.66411019377755, potassium value (k value) was 86.84668251529367, humidity was 88.74556242363128, soil pH was 6.663241784801752, and temperature was 30.043349260288025.
+
+For my Rice crop, at time 07:10:00 on 2024-07-11 the Nitrogen value (n value) was 97.58357280151142, Phosphorus value (p value) was 45.18823577691317, potassium value (k value) was 89.16920605267377, humidity was 81.41254874887112, soil pH was 6.973685945642879, and temperature was 30.657673552057883.
+
+For my Rice crop, at time 07:15:00 on 2024-07-11 the Nitrogen value (n value) was 110.33445438503814, Phosphorus value (p value) was 40.91265573649064, potassium value (k value) was 83.62645540830374, humidity was 71.18643679780365, soil pH was 6.618017032283174, and temperature was 32.21163736647878.
+
+For my Rice crop, at time 07:20:00 on 2024-07-11 the Nitrogen value (n value) was 97.23807452060971, Phosphorus value (p value) was 46.513480046982025, potassium value (k value) was 84.31465431735658, humidity was 78.85558427685116, soil pH was 6.496075203360716, and temperature was 29.788382600302185.
+
+For my Rice crop, at time 07:25:00 on 2024-07-11 the Nitrogen value (n value) was 99.42727631583426, Phosphorus value (p value) was 50.100934985161295, potassium value (k value) was 80.85395303753742, humidity was 84.98018913002393, soil pH was 6.54391688151846, and temperature was 25.32551503554988.
+
+For my Rice crop, at time 07:30:00 on 2024-07-11 the Nitrogen value (n value) was 111.60416053395116, Phosphorus value (p value) was 49.14977343037366, potassium value (k value) was 90.08457723581996, humidity was 76.19542201282289, soil pH was 6.303111048018788, and temperature was 25.29740333103852.
+
+For my Rice crop, at time 07:35:00 on 2024-07-11 the Nitrogen value (n value) was 113.18807214106512, Phosphorus value (p value) was 58.61373415902054, potassium value (k value) was 93.8992327908372, humidity was 83.58655126701775, soil pH was 6.9291964530679415, and temperature was 33.110722049068166.
+
+For my Rice crop, at time 07:40:00 on 2024-07-11 the Nitrogen value (n value) was 84.89502722005679, Phosphorus value (p value) was 49.10105632203048, potassium value (k value) was 96.35998132700094, humidity was 70.45136870006668, soil pH was 6.05647701990936, and temperature was 32.681926476392285.
+
+For my Rice crop, at time 07:45:00 on 2024-07-11 the Nitrogen value (n value) was 95.91542190979976, Phosphorus value (p value) was 54.180794596030005, potassium value (k value) was 85.91898500432266, humidity was 72.94905242095638, soil pH was 6.510862290220323, and temperature was 30.30980469144504.
+
+For my Rice crop, at time 07:50:00 on 2024-07-11 the Nitrogen value (n value) was 100.76186363321, Phosphorus value (p value) was 48.43431431956407, potassium value (k value) was 97.54226023958032, humidity was 77.45325590180889, soil pH was 6.0281458424003, and temperature was 26.783761522567843.
+
+For my Rice crop, at time 07:55:00 on 2024-07-11 the Nitrogen value (n value) was 86.87463460220575, Phosphorus value (p value) was 51.4255717147696, potassium value (k value) was 86.79922221642991, humidity was 77.95980056997708, soil pH was 6.718025593530534, and temperature was 26.3791511737256.
+
+For my Rice crop, at time 08:00:00 on 2024-07-11 the Nitrogen value (n value) was 113.352434340971, Phosphorus value (p value) was 53.68268904206342, potassium value (k value) was 94.56194168535364, humidity was 70.95351942370755, soil pH was 6.928950709644385, and temperature was 29.85890407590151.
+
+For my Rice crop, at time 08:05:00 on 2024-07-11 the Nitrogen value (n value) was 80.70123168523098, Phosphorus value (p value) was 45.00922599612691, potassium value (k value) was 91.258405594489, humidity was 76.5960759801248, soil pH was 5.766119350591923, and temperature was 26.12429737182041.
+
+For my Rice crop, at time 08:10:00 on 2024-07-11 the Nitrogen value (n value) was 115.96804195145444, Phosphorus value (p value) was 48.05385199157465, potassium value (k value) was 93.3401479585704, humidity was 76.08018426918858, soil pH was 6.594415159159046, and temperature was 24.707595529475945.
+
+For my Rice crop, at time 08:15:00 on 2024-07-11 the Nitrogen value (n value) was 96.54087872987178, Phosphorus value (p value) was 56.22256779926003, potassium value (k value) was 89.26050645811685, humidity was 77.95540974564062, soil pH was 6.876587902926469, and temperature was 29.82746927372821.
+
+For my Rice crop, at time 08:20:00 on 2024-07-11 the Nitrogen value (n value) was 87.6588284889591, Phosphorus value (p value) was 49.68008261250461, potassium value (k value) was 83.90110943308935, humidity was 75.00293701964883, soil pH was 7.129034097760866, and temperature was 30.31866768918882.
+
+For my Rice crop, at time 08:25:00 on 2024-07-11 the Nitrogen value (n value) was 117.70634373385975, Phosphorus value (p value) was 51.5981627261088, potassium value (k value) was 83.03038342127695, humidity was 74.82947957424237, soil pH was 6.58596861578156, and temperature was 31.654488163383142.
+
+For my Rice crop, at time 08:30:00 on 2024-07-11 the Nitrogen value (n value) was 113.20688149247772, Phosphorus value (p value) was 47.30507832300687, potassium value (k value) was 86.0539386067416, humidity was 71.63582905414324, soil pH was 6.654753323671597, and temperature was 29.484342289226337.
+
+For my Rice crop, at time 08:35:00 on 2024-07-11 the Nitrogen value (n value) was 116.11858090973084, Phosphorus value (p value) was 57.23169616416059, potassium value (k value) was 99.01486886599533, humidity was 85.30782368629038, soil pH was 5.955147321340384, and temperature was 26.16264727557959.
+
+For my Rice crop, at time 08:40:00 on 2024-07-11 the Nitrogen value (n value) was 107.62867401683744, Phosphorus value (p value) was 53.43317149746672, potassium value (k value) was 88.9967455857735, humidity was 72.10145754944126, soil pH was 6.414903408185753, and temperature was 30.200106416782138.
+
+For my Rice crop, at time 08:45:00 on 2024-07-11 the Nitrogen value (n value) was 100.22924229461847, Phosphorus value (p value) was 50.94914011200363, potassium value (k value) was 91.76408302957331, humidity was 79.87676603715909, soil pH was 6.958132392405348, and temperature was 33.40007848558385.
+
+For my Rice crop, at time 08:50:00 on 2024-07-11 the Nitrogen value (n value) was 102.97491599535104, Phosphorus value (p value) was 42.58358572934334, potassium value (k value) was 80.41446151681701, humidity was 75.63091366825616, soil pH was 6.172118010559573, and temperature was 33.62669030568733.
+
+For my Rice crop, at time 08:55:00 on 2024-07-11 the Nitrogen value (n value) was 89.85413967387738, Phosphorus value (p value) was 47.618118646474414, potassium value (k value) was 83.99208846095455, humidity was 83.88581830613181, soil pH was 6.478393075423664, and temperature was 27.4186016671642.
+
+For my Rice crop, at time 09:00:00 on 2024-07-11 the Nitrogen value (n value) was 101.28907989953326, Phosphorus value (p value) was 42.94969634301224, potassium value (k value) was 95.69812576379844, humidity was 86.27182232455297, soil pH was 6.629117647251597, and temperature was 32.70833092790669.
+
+For my Rice crop, at time 09:05:00 on 2024-07-11 the Nitrogen value (n value) was 118.66682795418085, Phosphorus value (p value) was 49.61234091634717, potassium value (k value) was 95.2816695549788, humidity was 86.49763950726589, soil pH was 6.712590675045653, and temperature was 36.38126068572593.
+
+For my Rice crop, at time 09:10:00 on 2024-07-11 the Nitrogen value (n value) was 85.11612020711779, Phosphorus value (p value) was 58.924531345367, potassium value (k value) was 99.96021020508532, humidity was 89.1445153342296, soil pH was 6.642595918360078, and temperature was 29.01667256386307.
+
+For my Rice crop, at time 09:15:00 on 2024-07-11 the Nitrogen value (n value) was 102.51219208069564, Phosphorus value (p value) was 44.86961452233403, potassium value (k value) was 98.98612895569536, humidity was 75.26664489986845, soil pH was 6.780662366514206, and temperature was 34.153467790229456.
+
+For my Rice crop, at time 09:20:00 on 2024-07-11 the Nitrogen value (n value) was 117.31889682126364, Phosphorus value (p value) was 40.38137970433159, potassium value (k value) was 94.72451302411032, humidity was 83.04836951429921, soil pH was 6.320996429789318, and temperature was 28.85296675284004.
+
+For my Rice crop, at time 09:25:00 on 2024-07-11 the Nitrogen value (n value) was 106.75009063315474, Phosphorus value (p value) was 51.33684195949691, potassium value (k value) was 79.27826902242285, humidity was 88.13782985041942, soil pH was 6.248650496150867, and temperature was 28.763377949971595.
+
+For my Rice crop, at time 09:30:00 on 2024-07-11 the Nitrogen value (n value) was 107.1524228763284, Phosphorus value (p value) was 42.61581250773628, potassium value (k value) was 82.9172632590778, humidity was 85.2856995590164, soil pH was 6.322248916376757, and temperature was 28.996337776858933.
+
+For my Rice crop, at time 09:35:00 on 2024-07-11 the Nitrogen value (n value) was 97.42597469336629, Phosphorus value (p value) was 46.82545764703674, potassium value (k value) was 85.35493705814332, humidity was 88.33981378108558, soil pH was 6.471069908337615, and temperature was 30.239894667082527.
+
+For my Rice crop, at time 09:40:00 on 2024-07-11 the Nitrogen value (n value) was 82.02308533092997, Phosphorus value (p value) was 51.711485713732586, potassium value (k value) was 94.94194027825412, humidity was 80.82436084371467, soil pH was 7.001535459664328, and temperature was 29.92360001181364.
+
+For my Rice crop, at time 09:45:00 on 2024-07-11 the Nitrogen value (n value) was 84.06044923289201, Phosphorus value (p value) was 46.5205836624293, potassium value (k value) was 94.3561057430142, humidity was 86.42712679350987, soil pH was 6.392211309185076, and temperature was 30.46017747773045.
+
+For my Rice crop, at time 09:50:00 on 2024-07-11 the Nitrogen value (n value) was 109.0955233100224, Phosphorus value (p value) was 48.39937938939397, potassium value (k value) was 85.19989608163094, humidity was 83.81619400973547, soil pH was 6.987878177995037, and temperature was 33.378233848330225.
+
+For my Rice crop, at time 09:55:00 on 2024-07-11 the Nitrogen value (n value) was 106.73470844089118, Phosphorus value (p value) was 44.3337243278799, potassium value (k value) was 83.37041000468399, humidity was 77.21990360549434, soil pH was 6.426394850810111, and temperature was 26.252476351649022.
+
+For my Rice crop, at time 10:00:00 on 2024-07-11 the Nitrogen value (n value) was 97.64299417595365, Phosphorus value (p value) was 55.550207072118695, potassium value (k value) was 88.13017383327713, humidity was 73.12500257014791, soil pH was 6.302936475867882, and temperature was 27.714500666191118.
+
+For my Rice crop, at time 10:05:00 on 2024-07-11 the Nitrogen value (n value) was 116.51617811656229, Phosphorus value (p value) was 54.901276332877856, potassium value (k value) was 85.62659038232765, humidity was 77.79478563078439, soil pH was 6.733797321990522, and temperature was 25.399919719972356.
+
+For my Rice crop, at time 10:10:00 on 2024-07-11 the Nitrogen value (n value) was 116.84678843932228, Phosphorus value (p value) was 59.63787781184514, potassium value (k value) was 89.12902199401118, humidity was 76.12991301233218, soil pH was 7.001426118117058, and temperature was 27.0292488914302.
+
+For my Rice crop, at time 10:15:00 on 2024-07-11 the Nitrogen value (n value) was 120.62591294679454, Phosphorus value (p value) was 55.010224407813126, potassium value (k value) was 99.55133080169352, humidity was 77.31634051498588, soil pH was 6.493421069086898, and temperature was 29.837171982004865.
+
+For my Rice crop, at time 10:20:00 on 2024-07-11 the Nitrogen value (n value) was 105.35518625121723, Phosphorus value (p value) was 46.143874209153545, potassium value (k value) was 87.89832405920723, humidity was 83.98359997865835, soil pH was 6.6196631675287545, and temperature was 32.91147353717691.
+
+For my Rice crop, at time 10:25:00 on 2024-07-11 the Nitrogen value (n value) was 103.62316929816704, Phosphorus value (p value) was 56.98613992342207, potassium value (k value) was 83.1870750142813, humidity was 75.04235428859603, soil pH was 6.690519510622849, and temperature was 28.672235230655524.
+
+For my Rice crop, at time 10:30:00 on 2024-07-11 the Nitrogen value (n value) was 88.53246528063956, Phosphorus value (p value) was 41.63430642096922, potassium value (k value) was 99.07768760087168, humidity was 89.06457829176715, soil pH was 6.774048806782114, and temperature was 31.860223080817427.
+
+For my Rice crop, at time 10:35:00 on 2024-07-11 the Nitrogen value (n value) was 123.4781438166426, Phosphorus value (p value) was 50.2205742453945, potassium value (k value) was 92.95526357337432, humidity was 88.81651713603262, soil pH was 6.314478527909421, and temperature was 27.22186858568741.
+
+For my Rice crop, at time 10:40:00 on 2024-07-11 the Nitrogen value (n value) was 98.5892329094664, Phosphorus value (p value) was 42.80545164825421, potassium value (k value) was 89.43234796343488, humidity was 84.59182118610828, soil pH was 6.664322096112548, and temperature was 32.185060246283065.
+
+For my Rice crop, at time 10:45:00 on 2024-07-11 the Nitrogen value (n value) was 109.77520922221544, Phosphorus value (p value) was 56.52761467707746, potassium value (k value) was 99.8547722698244, humidity was 77.13447368934466, soil pH was 6.393559850952973, and temperature was 36.10374886989074.
+
+For my Rice crop, at time 10:50:00 on 2024-07-11 the Nitrogen value (n value) was 118.90547534697642, Phosphorus value (p value) was 50.54041884758458, potassium value (k value) was 98.56581907197892, humidity was 87.07141484547635, soil pH was 6.666186640394376, and temperature was 31.482430939925887.
+
+For my Rice crop, at time 10:55:00 on 2024-07-11 the Nitrogen value (n value) was 110.52128161448783, Phosphorus value (p value) was 54.25382411360178, potassium value (k value) was 87.21082458884608, humidity was 81.07483921229907, soil pH was 6.269683893816336, and temperature was 27.026976503679297.
+
+For my Rice crop, at time 11:00:00 on 2024-07-11 the Nitrogen value (n value) was 113.4396413110244, Phosphorus value (p value) was 46.70066620363286, potassium value (k value) was 93.83966513065104, humidity was 77.41572772864585, soil pH was 6.432720944918986, and temperature was 25.124412583707965.
+
+For my Rice crop, at time 11:05:00 on 2024-07-11 the Nitrogen value (n value) was 101.55434826241608, Phosphorus value (p value) was 42.23842985235199, potassium value (k value) was 82.29240573830326, humidity was 79.65773425818793, soil pH was 6.823484798572678, and temperature was 30.935699501131108.
+
+For my Rice crop, at time 11:10:00 on 2024-07-11 the Nitrogen value (n value) was 84.56778732601529, Phosphorus value (p value) was 51.72601768386342, potassium value (k value) was 94.70805622242813, humidity was 79.27532429445546, soil pH was 6.482211071498397, and temperature was 31.25169667448572.
+
+For my Rice crop, at time 11:15:00 on 2024-07-11 the Nitrogen value (n value) was 111.05674010658156, Phosphorus value (p value) was 48.11554402630766, potassium value (k value) was 82.71945599888706, humidity was 73.06515250924869, soil pH was 6.669083973602056, and temperature was 27.94926908547154.
+
+For my Rice crop, at time 11:20:00 on 2024-07-11 the Nitrogen value (n value) was 100.28617469091444, Phosphorus value (p value) was 45.76063569772917, potassium value (k value) was 84.43955779656162, humidity was 88.09197523964147, soil pH was 6.457290167080089, and temperature was 29.418959816133864.
+
+For my Rice crop, at time 11:25:00 on 2024-07-11 the Nitrogen value (n value) was 112.72279241424344, Phosphorus value (p value) was 40.57155226200673, potassium value (k value) was 96.39771682270536, humidity was 78.36026121379639, soil pH was 6.638243329765492, and temperature was 29.227913916658835.
+
+For my Rice crop, at time 11:30:00 on 2024-07-11 the Nitrogen value (n value) was 114.07995286467312, Phosphorus value (p value) was 52.50563100001673, potassium value (k value) was 92.5850166989164, humidity was 82.13839502295001, soil pH was 6.745891637702023, and temperature was 28.212879150990343.
+
+For my Rice crop, at time 11:35:00 on 2024-07-11 the Nitrogen value (n value) was 80.00718790421236, Phosphorus value (p value) was 51.13442517785998, potassium value (k value) was 86.94517909907442, humidity was 81.43087736382155, soil pH was 6.675256106931538, and temperature was 31.14229117733717.
+
+For my Rice crop, at time 11:40:00 on 2024-07-11 the Nitrogen value (n value) was 100.52846417329653, Phosphorus value (p value) was 52.07269787995983, potassium value (k value) was 89.62270660368844, humidity was 82.94372473506401, soil pH was 6.716253577242922, and temperature was 29.49048403268556.
+
+For my Rice crop, at time 11:45:00 on 2024-07-11 the Nitrogen value (n value) was 118.80455119680818, Phosphorus value (p value) was 49.85667847186294, potassium value (k value) was 92.94835671685053, humidity was 82.56791688984946, soil pH was 6.771957580971848, and temperature was 33.86690773261474.
+
+For my Rice crop, at time 11:50:00 on 2024-07-11 the Nitrogen value (n value) was 106.11812117420824, Phosphorus value (p value) was 51.15318047670554, potassium value (k value) was 86.67387677970198, humidity was 71.7785754413907, soil pH was 6.774879726285365, and temperature was 28.975605246226387.
+
+For my Rice crop, at time 11:55:00 on 2024-07-11 the Nitrogen value (n value) was 100.13316216297468, Phosphorus value (p value) was 50.0411982662454, potassium value (k value) was 93.27742792145396, humidity was 71.88056591287248, soil pH was 6.334182562663036, and temperature was 33.57296851166261.
+
+For my Rice crop, at time 12:00:00 on 2024-07-11 the Nitrogen value (n value) was 118.23843775276151, Phosphorus value (p value) was 49.69616628222664, potassium value (k value) was 80.96855034752572, humidity was 71.21220965599655, soil pH was 6.684470509233904, and temperature was 25.421061120767693.
+
+For my Rice crop, at time 12:05:00 on 2024-07-11 the Nitrogen value (n value) was 92.59273941187276, Phosphorus value (p value) was 55.21128076679486, potassium value (k value) was 91.93119449203368, humidity was 78.4718260344482, soil pH was 7.015630415406292, and temperature was 34.86361894100124.
+
+For my Rice crop, at time 12:10:00 on 2024-07-11 the Nitrogen value (n value) was 106.66181332562176, Phosphorus value (p value) was 46.93918407540309, potassium value (k value) was 88.06613746781267, humidity was 82.50600271147287, soil pH was 6.875888211233182, and temperature was 29.75668908104475.
+
+For my Rice crop, at time 12:15:00 on 2024-07-11 the Nitrogen value (n value) was 106.26299168867524, Phosphorus value (p value) was 44.43818909689176, potassium value (k value) was 100.16356977783376, humidity was 82.28126901321082, soil pH was 6.122609184944114, and temperature was 29.546461654669585.
+
+For my Rice crop, at time 12:20:00 on 2024-07-11 the Nitrogen value (n value) was 79.346330860946, Phosphorus value (p value) was 42.39845498627695, potassium value (k value) was 86.55000346803514, humidity was 89.23501331160294, soil pH was 6.72861950334819, and temperature was 28.62403541824007.
+
+For my Rice crop, at time 12:25:00 on 2024-07-11 the Nitrogen value (n value) was 113.50645145591686, Phosphorus value (p value) was 48.7147040409924, potassium value (k value) was 94.29034308164502, humidity was 74.03094429697279, soil pH was 6.444098453995538, and temperature was 26.45243600811472.
+
+For my Rice crop, at time 12:30:00 on 2024-07-11 the Nitrogen value (n value) was 109.52847664170449, Phosphorus value (p value) was 58.192352921248045, potassium value (k value) was 94.5316290692524, humidity was 87.74434161710184, soil pH was 5.855297549438043, and temperature was 30.83091694981738.
+
+For my Rice crop, at time 12:35:00 on 2024-07-11 the Nitrogen value (n value) was 101.80450047304512, Phosphorus value (p value) was 52.618788176325474, potassium value (k value) was 85.92955241623616, humidity was 76.36655732387429, soil pH was 6.821846072470487, and temperature was 33.306780912400576.
+
+For my Rice crop, at time 12:40:00 on 2024-07-11 the Nitrogen value (n value) was 110.3709206024062, Phosphorus value (p value) was 47.7296972974272, potassium value (k value) was 84.78359977118257, humidity was 79.25038485401852, soil pH was 6.602901119997045, and temperature was 25.912623857237744.
+
+For my Rice crop, at time 12:45:00 on 2024-07-11 the Nitrogen value (n value) was 83.90715350498435, Phosphorus value (p value) was 50.66397699727925, potassium value (k value) was 97.3607443297748, humidity was 87.68722005236104, soil pH was 7.111310626941385, and temperature was 34.86901043963804.
+
+For my Rice crop, at time 12:50:00 on 2024-07-11 the Nitrogen value (n value) was 120.97514596774698, Phosphorus value (p value) was 47.35295641162517, potassium value (k value) was 96.83868614334985, humidity was 80.39996698183377, soil pH was 6.047048961043075, and temperature was 24.599599046892145.
+
+For my Rice crop, at time 12:55:00 on 2024-07-11 the Nitrogen value (n value) was 117.58839818701708, Phosphorus value (p value) was 58.413408791840666, potassium value (k value) was 88.58579166543674, humidity was 82.41802058839151, soil pH was 6.9346229181074, and temperature was 31.85033267835203.
+
+For my Rice crop, at time 13:00:00 on 2024-07-11 the Nitrogen value (n value) was 94.6438293546866, Phosphorus value (p value) was 49.34654645157639, potassium value (k value) was 84.76196082570702, humidity was 81.72855631663185, soil pH was 6.675261283749398, and temperature was 28.39543581870683.
+
+For my Rice crop, at time 13:05:00 on 2024-07-11 the Nitrogen value (n value) was 121.74166080865989, Phosphorus value (p value) was 47.15587709596349, potassium value (k value) was 95.05596390351012, humidity was 72.56350680267026, soil pH was 6.075181625707266, and temperature was 27.74883735752583.
+
+For my Rice crop, at time 13:10:00 on 2024-07-11 the Nitrogen value (n value) was 81.40381164912819, Phosphorus value (p value) was 46.1288728606086, potassium value (k value) was 97.16318979075658, humidity was 70.80353451141954, soil pH was 6.098840747719681, and temperature was 27.915334689667382.
+
+For my Rice crop, at time 13:15:00 on 2024-07-11 the Nitrogen value (n value) was 96.64418683356914, Phosphorus value (p value) was 46.79038238001723, potassium value (k value) was 81.55315201846595, humidity was 76.80319604507267, soil pH was 6.399054587374927, and temperature was 34.73500386245167.
+
+For my Rice crop, at time 13:20:00 on 2024-07-11 the Nitrogen value (n value) was 110.10406282584825, Phosphorus value (p value) was 47.21558143849205, potassium value (k value) was 85.78569476758466, humidity was 81.90109285834326, soil pH was 6.341461480524011, and temperature was 28.36160658224121.
+
+For my Rice crop, at time 13:25:00 on 2024-07-11 the Nitrogen value (n value) was 88.4025213703974, Phosphorus value (p value) was 40.34610239574242, potassium value (k value) was 93.9012472743224, humidity was 86.0464313995552, soil pH was 6.160076147644681, and temperature was 25.471065145644022.
+
+For my Rice crop, at time 13:30:00 on 2024-07-11 the Nitrogen value (n value) was 89.77801895499492, Phosphorus value (p value) was 43.88256920531683, potassium value (k value) was 88.86402498872151, humidity was 75.79675261301277, soil pH was 6.390363324916178, and temperature was 29.28292770568424.
+
+For my Rice crop, at time 13:35:00 on 2024-07-11 the Nitrogen value (n value) was 92.14483074635646, Phosphorus value (p value) was 43.0703910934944, potassium value (k value) was 87.07377407201918, humidity was 82.023472860235, soil pH was 6.592686322866717, and temperature was 31.439554807330836.
+
+For my Rice crop, at time 13:40:00 on 2024-07-11 the Nitrogen value (n value) was 113.76159896958995, Phosphorus value (p value) was 48.29633535547068, potassium value (k value) was 81.05918479387745, humidity was 82.3268387293466, soil pH was 6.049346198033345, and temperature was 33.85131494208945.
+
+For my Rice crop, at time 13:45:00 on 2024-07-11 the Nitrogen value (n value) was 110.6240282228712, Phosphorus value (p value) was 51.00638598714912, potassium value (k value) was 94.74871932610648, humidity was 71.08722922511956, soil pH was 6.566116831747479, and temperature was 34.12675098430818.
+
+For my Rice crop, at time 13:50:00 on 2024-07-11 the Nitrogen value (n value) was 104.22314061324508, Phosphorus value (p value) was 53.32699991295735, potassium value (k value) was 79.81442183712313, humidity was 87.85987641893703, soil pH was 6.881812912031327, and temperature was 33.09727797482367.
+
+For my Rice crop, at time 13:55:00 on 2024-07-11 the Nitrogen value (n value) was 113.68185111616606, Phosphorus value (p value) was 44.50483851918799, potassium value (k value) was 100.16985290482124, humidity was 77.43215279232373, soil pH was 6.224886528745691, and temperature was 27.00146625026244.
+
+For my Rice crop, at time 14:00:00 on 2024-07-11 the Nitrogen value (n value) was 115.30157432702082, Phosphorus value (p value) was 54.4053337440703, potassium value (k value) was 81.0268914334229, humidity was 77.51384355130303, soil pH was 6.664744516213792, and temperature was 32.248756043966885.
+
+For my Rice crop, at time 14:05:00 on 2024-07-11 the Nitrogen value (n value) was 115.48208120958505, Phosphorus value (p value) was 45.278552509072725, potassium value (k value) was 82.1121464713368, humidity was 74.36934218415925, soil pH was 6.080610463430057, and temperature was 34.79633184648887.
+
+For my Rice crop, at time 14:10:00 on 2024-07-11 the Nitrogen value (n value) was 118.86463827827797, Phosphorus value (p value) was 52.08795100682504, potassium value (k value) was 89.27062873589276, humidity was 81.95674894495347, soil pH was 6.114601424087369, and temperature was 30.87694301827413.
+
+For my Rice crop, at time 14:15:00 on 2024-07-11 the Nitrogen value (n value) was 79.63505343718552, Phosphorus value (p value) was 51.63680183164258, potassium value (k value) was 98.76701983846723, humidity was 80.78900901464408, soil pH was 6.276653012009074, and temperature was 28.550136099788453.
+
+For my Rice crop, at time 14:20:00 on 2024-07-11 the Nitrogen value (n value) was 118.72656455113923, Phosphorus value (p value) was 56.4560002174436, potassium value (k value) was 92.859574186328, humidity was 88.63458370136715, soil pH was 6.743196555408438, and temperature was 28.273099312940783.
+
+For my Rice crop, at time 14:25:00 on 2024-07-11 the Nitrogen value (n value) was 86.69529964398208, Phosphorus value (p value) was 44.82420045454344, potassium value (k value) was 81.83122262914203, humidity was 84.74124657995424, soil pH was 6.547923075198003, and temperature was 33.01488067010142.
+
+For my Rice crop, at time 14:30:00 on 2024-07-11 the Nitrogen value (n value) was 110.81130922652314, Phosphorus value (p value) was 57.801188827296365, potassium value (k value) was 85.75958219637083, humidity was 77.0529134908929, soil pH was 6.592813827204068, and temperature was 25.279199259232843.
+
+For my Rice crop, at time 14:35:00 on 2024-07-11 the Nitrogen value (n value) was 112.34018984013606, Phosphorus value (p value) was 44.52305266365353, potassium value (k value) was 82.90131240740334, humidity was 71.50848758911388, soil pH was 7.103350677000742, and temperature was 27.460424065313283.
+
+For my Rice crop, at time 14:40:00 on 2024-07-11 the Nitrogen value (n value) was 88.32766003835138, Phosphorus value (p value) was 52.49720841177908, potassium value (k value) was 83.66189680505411, humidity was 76.55859068770388, soil pH was 6.598048362961489, and temperature was 34.896011380513585.
+
+For my Rice crop, at time 14:45:00 on 2024-07-11 the Nitrogen value (n value) was 109.86053116810584, Phosphorus value (p value) was 52.150020809803344, potassium value (k value) was 81.06042221831491, humidity was 82.97330454062481, soil pH was 6.371615175564361, and temperature was 32.67661145205035.
+
+For my Rice crop, at time 14:50:00 on 2024-07-11 the Nitrogen value (n value) was 102.60444988692106, Phosphorus value (p value) was 55.72501317907212, potassium value (k value) was 81.61820657766552, humidity was 87.04979687749476, soil pH was 5.981149521599158, and temperature was 28.28668526811372.
+
+For my Rice crop, at time 14:55:00 on 2024-07-11 the Nitrogen value (n value) was 79.21080105054313, Phosphorus value (p value) was 51.7227265608564, potassium value (k value) was 83.44492665788952, humidity was 86.54802722815013, soil pH was 6.336283210258749, and temperature was 26.530872253781897.
+
+For my Rice crop, at time 15:00:00 on 2024-07-11 the Nitrogen value (n value) was 108.33135690450102, Phosphorus value (p value) was 58.66432500018032, potassium value (k value) was 97.35779526971342, humidity was 78.48917742778588, soil pH was 6.142709664642672, and temperature was 29.16870080761697.
+
+For my Rice crop, at time 15:05:00 on 2024-07-11 the Nitrogen value (n value) was 103.46913783411252, Phosphorus value (p value) was 58.41160127335542, potassium value (k value) was 93.74548133224138, humidity was 72.15506255623178, soil pH was 6.384825409102639, and temperature was 28.383332004648736.
+
+For my Rice crop, at time 15:10:00 on 2024-07-11 the Nitrogen value (n value) was 104.57077843021814, Phosphorus value (p value) was 50.50412872730551, potassium value (k value) was 94.09069060453062, humidity was 85.26126501613707, soil pH was 6.5600035927673455, and temperature was 32.81535216284366.
+
+For my Rice crop, at time 15:15:00 on 2024-07-11 the Nitrogen value (n value) was 96.44398061453002, Phosphorus value (p value) was 50.97393933236514, potassium value (k value) was 99.4968870695442, humidity was 86.90999048635135, soil pH was 6.775149567598463, and temperature was 27.06487879346863.
+
+For my Rice crop, at time 15:20:00 on 2024-07-11 the Nitrogen value (n value) was 103.93984593280612, Phosphorus value (p value) was 59.28540292743522, potassium value (k value) was 94.9470993871244, humidity was 76.95725898945588, soil pH was 6.681717546472054, and temperature was 29.910321389554777.
+
+For my Rice crop, at time 15:25:00 on 2024-07-11 the Nitrogen value (n value) was 110.48096932907752, Phosphorus value (p value) was 40.03373567486955, potassium value (k value) was 96.71270121059077, humidity was 76.25285996587318, soil pH was 6.050517575029037, and temperature was 25.211591534431605.
+
+For my Rice crop, at time 15:30:00 on 2024-07-11 the Nitrogen value (n value) was 93.58224626949996, Phosphorus value (p value) was 60.37138354460264, potassium value (k value) was 87.54597849069425, humidity was 85.43500814429416, soil pH was 6.085457288824008, and temperature was 31.404177905915688.
+
+For my Rice crop, at time 15:35:00 on 2024-07-11 the Nitrogen value (n value) was 108.754332857961, Phosphorus value (p value) was 56.88295609156154, potassium value (k value) was 80.44343177983932, humidity was 78.0912463312265, soil pH was 6.606860426710754, and temperature was 36.06569755970363.
+
+For my Rice crop, at time 15:40:00 on 2024-07-11 the Nitrogen value (n value) was 82.70451489547499, Phosphorus value (p value) was 50.35508347237243, potassium value (k value) was 97.96358754084008, humidity was 76.49325683306682, soil pH was 6.38867683565664, and temperature was 31.252037033086243.
+
+For my Rice crop, at time 15:45:00 on 2024-07-11 the Nitrogen value (n value) was 103.16239767166618, Phosphorus value (p value) was 54.41203280310762, potassium value (k value) was 96.48692767463064, humidity was 87.62731530916432, soil pH was 6.542691167561676, and temperature was 33.44631191302975.
+
+For my Rice crop, at time 15:50:00 on 2024-07-11 the Nitrogen value (n value) was 100.69463111737792, Phosphorus value (p value) was 44.24304783362325, potassium value (k value) was 94.99427032298732, humidity was 77.42959661130885, soil pH was 6.324557931785511, and temperature was 27.340020575949584.
+
+For my Rice crop, at time 15:55:00 on 2024-07-11 the Nitrogen value (n value) was 114.42877948273836, Phosphorus value (p value) was 58.034519355290406, potassium value (k value) was 81.63462609970381, humidity was 88.55984256088827, soil pH was 6.376245070399089, and temperature was 33.828980131464746.
+
+For my Rice crop, at time 16:00:00 on 2024-07-11 the Nitrogen value (n value) was 78.25409885643069, Phosphorus value (p value) was 44.57758758142553, potassium value (k value) was 85.06984334580753, humidity was 85.0082964134319, soil pH was 6.54999270425179, and temperature was 32.547025149219536.
+
+For my Rice crop, at time 16:05:00 on 2024-07-11 the Nitrogen value (n value) was 117.31527980352364, Phosphorus value (p value) was 45.41783463285653, potassium value (k value) was 82.54206797264727, humidity was 77.9320205601946, soil pH was 6.375157889850963, and temperature was 33.85803065290911.
+
+For my Rice crop, at time 16:10:00 on 2024-07-11 the Nitrogen value (n value) was 95.03295701873594, Phosphorus value (p value) was 40.37213005539908, potassium value (k value) was 96.07326704705892, humidity was 77.94670898325832, soil pH was 6.781101090892955, and temperature was 30.78021726515425.
+
+For my Rice crop, at time 16:15:00 on 2024-07-11 the Nitrogen value (n value) was 83.82898577406868, Phosphorus value (p value) was 48.69528024935574, potassium value (k value) was 86.23995772085892, humidity was 74.02856456075715, soil pH was 6.571231091941859, and temperature was 27.108639193107237.
+
+For my Rice crop, at time 16:20:00 on 2024-07-11 the Nitrogen value (n value) was 89.97325915105064, Phosphorus value (p value) was 47.79607523549648, potassium value (k value) was 91.35825265988746, humidity was 72.3391271609462, soil pH was 7.103056958370507, and temperature was 32.36674601406512.
+
+For my Rice crop, at time 16:25:00 on 2024-07-11 the Nitrogen value (n value) was 106.63767706775562, Phosphorus value (p value) was 48.13768051923751, potassium value (k value) was 97.64437318927811, humidity was 69.4665779115588, soil pH was 6.820939811643172, and temperature was 33.637573479286594.
+
+For my Rice crop, at time 16:30:00 on 2024-07-11 the Nitrogen value (n value) was 106.13156734741928, Phosphorus value (p value) was 42.27464928757848, potassium value (k value) was 85.34242308968936, humidity was 78.73032345433857, soil pH was 6.679839813335725, and temperature was 29.257075799461543.
+
+For my Rice crop, at time 16:35:00 on 2024-07-11 the Nitrogen value (n value) was 115.9538699294807, Phosphorus value (p value) was 52.478183550422045, potassium value (k value) was 91.24240958999204, humidity was 79.61238060356264, soil pH was 6.5587050762497805, and temperature was 29.570589676991037.
+
+For my Rice crop, at time 16:40:00 on 2024-07-11 the Nitrogen value (n value) was 114.4885876224108, Phosphorus value (p value) was 47.61174292199041, potassium value (k value) was 86.45794399284544, humidity was 82.757128759644, soil pH was 6.840658177371095, and temperature was 31.2138819202018.
+
+For my Rice crop, at time 16:45:00 on 2024-07-11 the Nitrogen value (n value) was 116.86421001589648, Phosphorus value (p value) was 49.5917777407248, potassium value (k value) was 90.44592684177468, humidity was 88.79299630802838, soil pH was 6.541054301992679, and temperature was 32.04924704522147.
+
+For my Rice crop, at time 16:50:00 on 2024-07-11 the Nitrogen value (n value) was 76.02053496481973, Phosphorus value (p value) was 44.75255614925005, potassium value (k value) was 90.7806165755584, humidity was 87.96917392509049, soil pH was 6.673116452841953, and temperature was 31.50594843048069.
+
+For my Rice crop, at time 16:55:00 on 2024-07-11 the Nitrogen value (n value) was 113.7659422113313, Phosphorus value (p value) was 44.076395265231824, potassium value (k value) was 84.22762432984278, humidity was 86.5149106595823, soil pH was 6.627133131011717, and temperature was 33.7488112394411.
+
+For my Rice crop, at time 17:00:00 on 2024-07-11 the Nitrogen value (n value) was 102.9569605114509, Phosphorus value (p value) was 55.79107343621691, potassium value (k value) was 89.92613916404103, humidity was 76.2546437923397, soil pH was 6.508343921140058, and temperature was 28.117100633863544.
+
+For my Rice crop, at time 17:05:00 on 2024-07-11 the Nitrogen value (n value) was 92.43954635318376, Phosphorus value (p value) was 50.91910974026896, potassium value (k value) was 93.3731051829936, humidity was 88.03713394239551, soil pH was 6.20012326823177, and temperature was 30.5542913475264.
+
+For my Rice crop, at time 17:10:00 on 2024-07-11 the Nitrogen value (n value) was 113.05844602081028, Phosphorus value (p value) was 52.427787931171785, potassium value (k value) was 90.76902575625596, humidity was 76.85445644842969, soil pH was 6.460694826146637, and temperature was 32.50187108797533.
+
+For my Rice crop, at time 17:15:00 on 2024-07-11 the Nitrogen value (n value) was 86.49912705471525, Phosphorus value (p value) was 56.87734530181192, potassium value (k value) was 96.76171629699049, humidity was 87.57749404989599, soil pH was 6.632657394378308, and temperature was 28.170048057828136.
+
+For my Rice crop, at time 17:20:00 on 2024-07-11 the Nitrogen value (n value) was 79.08035175232227, Phosphorus value (p value) was 40.47192806954507, potassium value (k value) was 96.20684846434013, humidity was 74.54532043276467, soil pH was 6.115961287830933, and temperature was 33.39821338393221.
+
+For my Rice crop, at time 17:25:00 on 2024-07-11 the Nitrogen value (n value) was 100.71871397301643, Phosphorus value (p value) was 47.69678571016368, potassium value (k value) was 81.44778594039639, humidity was 82.95535708504298, soil pH was 6.817633541000106, and temperature was 25.31343144127769.
+
+For my Rice crop, at time 17:30:00 on 2024-07-11 the Nitrogen value (n value) was 90.16475511419937, Phosphorus value (p value) was 56.57952059433538, potassium value (k value) was 90.5720096375294, humidity was 84.6201667072814, soil pH was 6.157955213377546, and temperature was 33.45250351637353.
+
+For my Rice crop, at time 17:35:00 on 2024-07-11 the Nitrogen value (n value) was 83.2756309677492, Phosphorus value (p value) was 43.562675731725406, potassium value (k value) was 83.41728265763292, humidity was 87.9361963838816, soil pH was 6.374512916292922, and temperature was 32.96832242248096.
+
+For my Rice crop, at time 17:40:00 on 2024-07-11 the Nitrogen value (n value) was 97.60161351811884, Phosphorus value (p value) was 41.28318218469949, potassium value (k value) was 88.80588334943486, humidity was 80.94967569981819, soil pH was 6.6153394919397215, and temperature was 31.905582149963347.
+
+For my Rice crop, at time 17:45:00 on 2024-07-11 the Nitrogen value (n value) was 84.50131077304317, Phosphorus value (p value) was 39.92513966395833, potassium value (k value) was 82.61936460486693, humidity was 70.7818475296328, soil pH was 6.534254731671913, and temperature was 24.80190408330681.
+
+For my Rice crop, at time 17:50:00 on 2024-07-11 the Nitrogen value (n value) was 114.31137567766896, Phosphorus value (p value) was 57.2116880930777, potassium value (k value) was 89.92519732614181, humidity was 81.67912930581873, soil pH was 6.706131288607869, and temperature was 27.93829886263386.
+
+For my Rice crop, at time 17:55:00 on 2024-07-11 the Nitrogen value (n value) was 114.8617502710998, Phosphorus value (p value) was 51.18448430462572, potassium value (k value) was 81.18767666876784, humidity was 88.90123203723256, soil pH was 6.515320082719735, and temperature was 28.59010992123661.
+
+For my Rice crop, at time 18:00:00 on 2024-07-11 the Nitrogen value (n value) was 115.69230854210184, Phosphorus value (p value) was 44.77393269154853, potassium value (k value) was 91.51747994381792, humidity was 85.90864924407317, soil pH was 6.875331216412479, and temperature was 27.7969033327138.
+
+For my Rice crop, at time 18:05:00 on 2024-07-11 the Nitrogen value (n value) was 86.7978330677942, Phosphorus value (p value) was 40.95192612860199, potassium value (k value) was 86.12047527895075, humidity was 72.30094858785658, soil pH was 6.408998850567941, and temperature was 34.13974684489307.
+
+For my Rice crop, at time 18:10:00 on 2024-07-11 the Nitrogen value (n value) was 105.88686685962722, Phosphorus value (p value) was 48.98133814138529, potassium value (k value) was 89.59468077917256, humidity was 69.68134364684286, soil pH was 6.566158795969619, and temperature was 27.23847833393946.
+
+For my Rice crop, at time 18:15:00 on 2024-07-11 the Nitrogen value (n value) was 97.7876224615293, Phosphorus value (p value) was 51.409686352347286, potassium value (k value) was 80.6704623168238, humidity was 80.51082892713616, soil pH was 6.067647158367651, and temperature was 26.989028698846155.
+
+For my Rice crop, at time 18:20:00 on 2024-07-11 the Nitrogen value (n value) was 91.14112288930995, Phosphorus value (p value) was 41.41034782703586, potassium value (k value) was 80.39055358734969, humidity was 85.78998192872757, soil pH was 6.818238302605754, and temperature was 27.21015217849249.
+
+For my Rice crop, at time 18:25:00 on 2024-07-11 the Nitrogen value (n value) was 90.54473773928142, Phosphorus value (p value) was 55.007536140983376, potassium value (k value) was 84.152451405223, humidity was 73.07498271924162, soil pH was 7.002305437526946, and temperature was 31.67038066593201.
+
+For my Rice crop, at time 18:30:00 on 2024-07-11 the Nitrogen value (n value) was 101.02052223541808, Phosphorus value (p value) was 45.44199249452491, potassium value (k value) was 92.24038042540602, humidity was 70.24925897781799, soil pH was 6.445037468405352, and temperature was 29.11472096367903.
+
+For my Rice crop, at time 18:35:00 on 2024-07-11 the Nitrogen value (n value) was 114.75129481389408, Phosphorus value (p value) was 55.85515960240243, potassium value (k value) was 88.72776929169186, humidity was 77.64519863599908, soil pH was 6.592361883081742, and temperature was 26.06095726882615.
+
+For my Rice crop, at time 18:40:00 on 2024-07-11 the Nitrogen value (n value) was 104.18555027253548, Phosphorus value (p value) was 53.45817000601143, potassium value (k value) was 95.33231953476634, humidity was 76.2023946151558, soil pH was 7.020189438627939, and temperature was 33.41918999906424.
+
+For my Rice crop, at time 18:45:00 on 2024-07-11 the Nitrogen value (n value) was 94.03140233587465, Phosphorus value (p value) was 45.47673208045212, potassium value (k value) was 87.33293650281354, humidity was 80.90385178517505, soil pH was 6.603771420574005, and temperature was 33.617901243112044.
+
+For my Rice crop, at time 18:50:00 on 2024-07-11 the Nitrogen value (n value) was 104.56415811534346, Phosphorus value (p value) was 40.353147017396125, potassium value (k value) was 89.41013880382171, humidity was 82.77379108286527, soil pH was 6.658480207244763, and temperature was 34.61555153773776.
+
+For my Rice crop, at time 18:55:00 on 2024-07-11 the Nitrogen value (n value) was 115.90372767113055, Phosphorus value (p value) was 44.761371883193306, potassium value (k value) was 97.04151074465857, humidity was 80.436892955902, soil pH was 5.927467337430689, and temperature was 35.80281558288214.
+
+For my Rice crop, at time 19:00:00 on 2024-07-11 the Nitrogen value (n value) was 96.17099053419264, Phosphorus value (p value) was 50.92012077531767, potassium value (k value) was 97.04079414185492, humidity was 82.86254909245912, soil pH was 6.0529041335356135, and temperature was 31.810417983680804.
+
+For my Rice crop, at time 19:05:00 on 2024-07-11 the Nitrogen value (n value) was 95.10091975241474, Phosphorus value (p value) was 41.52628425583543, potassium value (k value) was 80.68854222972028, humidity was 71.76701956794022, soil pH was 6.721625858083222, and temperature was 32.10498761650595.
+
+For my Rice crop, at time 19:10:00 on 2024-07-11 the Nitrogen value (n value) was 119.22490911621834, Phosphorus value (p value) was 49.51314528615055, potassium value (k value) was 81.13346984337014, humidity was 70.43612399986739, soil pH was 7.018888785071707, and temperature was 27.248190544974246.
+
+For my Rice crop, at time 19:15:00 on 2024-07-11 the Nitrogen value (n value) was 85.8150477954517, Phosphorus value (p value) was 50.90393868521926, potassium value (k value) was 96.91073355708512, humidity was 80.90657388828689, soil pH was 6.613848730901257, and temperature was 27.402506667988764.
+
+For my Rice crop, at time 19:20:00 on 2024-07-11 the Nitrogen value (n value) was 84.5196271808682, Phosphorus value (p value) was 44.23735677783402, potassium value (k value) was 84.44064821058515, humidity was 89.63680132107842, soil pH was 6.134064196388339, and temperature was 27.25955200713486.
+
+For my Rice crop, at time 19:25:00 on 2024-07-11 the Nitrogen value (n value) was 89.08044666309821, Phosphorus value (p value) was 58.2384756006266, potassium value (k value) was 95.98812605559044, humidity was 81.08268404095607, soil pH was 6.184420388487952, and temperature was 31.094233301373706.
+
+For my Rice crop, at time 19:30:00 on 2024-07-11 the Nitrogen value (n value) was 93.973687877218, Phosphorus value (p value) was 41.56515140793855, potassium value (k value) was 81.1787616779912, humidity was 79.59491487711475, soil pH was 6.523125791647461, and temperature was 31.07858138224805.
+
+For my Rice crop, at time 19:35:00 on 2024-07-11 the Nitrogen value (n value) was 84.93829320357547, Phosphorus value (p value) was 47.79534108711321, potassium value (k value) was 93.1223901818958, humidity was 88.03178651459231, soil pH was 6.821512655900804, and temperature was 27.81159729367601.
+
+For my Rice crop, at time 19:40:00 on 2024-07-11 the Nitrogen value (n value) was 97.5931516050326, Phosphorus value (p value) was 51.774733312441406, potassium value (k value) was 81.16109739244696, humidity was 81.86784978581642, soil pH was 6.480058218989169, and temperature was 26.07243289364981.
+
+For my Rice crop, at time 19:45:00 on 2024-07-11 the Nitrogen value (n value) was 111.24466631443264, Phosphorus value (p value) was 42.709456555492665, potassium value (k value) was 93.479445223471, humidity was 74.29847657604185, soil pH was 6.294435467917766, and temperature was 29.134977594336394.
+
+For my Rice crop, at time 19:50:00 on 2024-07-11 the Nitrogen value (n value) was 82.12865771972994, Phosphorus value (p value) was 51.26131214300169, potassium value (k value) was 85.7475574129027, humidity was 88.38616808671408, soil pH was 7.094940225393674, and temperature was 26.37884518101016.
+
+For my Rice crop, at time 19:55:00 on 2024-07-11 the Nitrogen value (n value) was 83.48790115210373, Phosphorus value (p value) was 54.15129443958998, potassium value (k value) was 87.65172118298455, humidity was 86.61164102601424, soil pH was 7.007820532127532, and temperature was 35.44240504465114.
+
+For my Rice crop, at time 20:00:00 on 2024-07-11 the Nitrogen value (n value) was 106.48340922859484, Phosphorus value (p value) was 43.4052922788249, potassium value (k value) was 86.63931238882239, humidity was 86.4466132805128, soil pH was 6.947525971046465, and temperature was 29.08593541183557.
+
+For my Rice crop, at time 20:05:00 on 2024-07-11 the Nitrogen value (n value) was 104.74684952606069, Phosphorus value (p value) was 48.64857522820624, potassium value (k value) was 97.54446939003768, humidity was 75.9209827340529, soil pH was 6.248122532240537, and temperature was 35.5848877392515.
+
+For my Rice crop, at time 20:10:00 on 2024-07-11 the Nitrogen value (n value) was 87.57629189753595, Phosphorus value (p value) was 45.4826589786914, potassium value (k value) was 96.23532321972549, humidity was 86.56119443243729, soil pH was 6.804820700884032, and temperature was 31.93000868713791.
+
+For my Rice crop, at time 20:15:00 on 2024-07-11 the Nitrogen value (n value) was 83.4663738500002, Phosphorus value (p value) was 42.841581334302894, potassium value (k value) was 88.50904868126527, humidity was 88.8609079661212, soil pH was 6.199110048940812, and temperature was 28.352353300738645.
+
+For my Rice crop, at time 20:20:00 on 2024-07-11 the Nitrogen value (n value) was 96.36596224052434, Phosphorus value (p value) was 47.548807721792976, potassium value (k value) was 94.72335956023971, humidity was 70.07058263057094, soil pH was 6.935582830365791, and temperature was 25.005507632593694.
+
+For my Rice crop, at time 20:25:00 on 2024-07-11 the Nitrogen value (n value) was 117.24790045492075, Phosphorus value (p value) was 47.67264530539526, potassium value (k value) was 91.1767818666926, humidity was 77.62016927715754, soil pH was 6.0100450939736, and temperature was 33.34926641002616.
+
+For my Rice crop, at time 20:30:00 on 2024-07-11 the Nitrogen value (n value) was 85.36353032507489, Phosphorus value (p value) was 46.71872006718037, potassium value (k value) was 91.88918365607184, humidity was 88.76326598194194, soil pH was 6.452174546549387, and temperature was 30.331414485145903.
+
+For my Rice crop, at time 20:35:00 on 2024-07-11 the Nitrogen value (n value) was 85.57816341453693, Phosphorus value (p value) was 42.31509915994332, potassium value (k value) was 94.9937149951469, humidity was 78.30241707355559, soil pH was 7.093538837765024, and temperature was 35.35999275229955.
+
+For my Rice crop, at time 20:40:00 on 2024-07-11 the Nitrogen value (n value) was 90.35663887048796, Phosphorus value (p value) was 55.88761400931022, potassium value (k value) was 79.1135872203603, humidity was 80.11307205944318, soil pH was 6.656559933883933, and temperature was 33.3774980082228.
+
+For my Rice crop, at time 20:45:00 on 2024-07-11 the Nitrogen value (n value) was 103.42696677753932, Phosphorus value (p value) was 47.52557070961058, potassium value (k value) was 90.88599941934876, humidity was 75.23338214848393, soil pH was 6.8488837821334165, and temperature was 27.86097469503327.
+
+For my Rice crop, at time 20:50:00 on 2024-07-11 the Nitrogen value (n value) was 87.87102985557844, Phosphorus value (p value) was 50.66132707201973, potassium value (k value) was 90.14499329303096, humidity was 89.19026828527635, soil pH was 6.190251980175787, and temperature was 31.488602339434408.
+
+For my Rice crop, at time 20:55:00 on 2024-07-11 the Nitrogen value (n value) was 104.833203451395, Phosphorus value (p value) was 51.93830460417836, potassium value (k value) was 86.51146508373233, humidity was 71.40436954526629, soil pH was 6.256607147287894, and temperature was 29.35400410407413.
+
+For my Rice crop, at time 21:00:00 on 2024-07-11 the Nitrogen value (n value) was 86.78293788938113, Phosphorus value (p value) was 52.15435026503167, potassium value (k value) was 90.475189423687, humidity was 79.09400414735275, soil pH was 6.807154335582039, and temperature was 27.16555121276228.
+
+For my Rice crop, at time 21:05:00 on 2024-07-11 the Nitrogen value (n value) was 93.17890010667097, Phosphorus value (p value) was 45.67488037230356, potassium value (k value) was 99.12151635325698, humidity was 81.3342089586346, soil pH was 6.288164570841492, and temperature was 30.175639654025225.
+
+For my Rice crop, at time 21:10:00 on 2024-07-11 the Nitrogen value (n value) was 80.83849438182462, Phosphorus value (p value) was 40.884534712078974, potassium value (k value) was 93.60357583024695, humidity was 86.27282712785814, soil pH was 7.059292957966178, and temperature was 28.50072724272503.
+
+For my Rice crop, at time 21:15:00 on 2024-07-11 the Nitrogen value (n value) was 106.41576173734772, Phosphorus value (p value) was 50.89650215649508, potassium value (k value) was 87.03866710039536, humidity was 73.76617360718834, soil pH was 6.662123314489435, and temperature was 26.03567598222489.
+
+For my Rice crop, at time 21:20:00 on 2024-07-11 the Nitrogen value (n value) was 114.25348170196663, Phosphorus value (p value) was 41.52444067654321, potassium value (k value) was 97.94187809099856, humidity was 87.7108165410371, soil pH was 6.707815422848081, and temperature was 24.990548328917885.
+
+For my Rice crop, at time 21:25:00 on 2024-07-11 the Nitrogen value (n value) was 81.29015528937143, Phosphorus value (p value) was 53.08970082389177, potassium value (k value) was 82.77678129547158, humidity was 75.66435850032265, soil pH was 6.705513802785243, and temperature was 25.8563273429962.
+
+For my Rice crop, at time 21:30:00 on 2024-07-11 the Nitrogen value (n value) was 105.13248742030696, Phosphorus value (p value) was 42.14925228518882, potassium value (k value) was 86.98316425329068, humidity was 79.23282010475027, soil pH was 6.725836929030579, and temperature was 29.444344090611672.
+
+For my Rice crop, at time 21:35:00 on 2024-07-11 the Nitrogen value (n value) was 90.17618623392094, Phosphorus value (p value) was 52.68450161368417, potassium value (k value) was 93.25365055021902, humidity was 91.12448781412112, soil pH was 6.851628098866023, and temperature was 26.561336862794644.
+
+For my Rice crop, at time 21:40:00 on 2024-07-11 the Nitrogen value (n value) was 93.00510810839816, Phosphorus value (p value) was 54.18849303145219, potassium value (k value) was 88.30222167955526, humidity was 75.75356674490054, soil pH was 5.763256142169485, and temperature was 26.280964042868973.
+
+For my Rice crop, at time 21:45:00 on 2024-07-11 the Nitrogen value (n value) was 95.91164948307248, Phosphorus value (p value) was 41.30007153401251, potassium value (k value) was 80.925578099551, humidity was 81.31333344984951, soil pH was 6.637329124583313, and temperature was 27.062046218972.
+
+For my Rice crop, at time 21:50:00 on 2024-07-11 the Nitrogen value (n value) was 82.38109893847647, Phosphorus value (p value) was 50.13912186761792, potassium value (k value) was 97.77813805625688, humidity was 83.65201532858723, soil pH was 6.570020298976302, and temperature was 29.514308909926143.
+
+For my Rice crop, at time 21:55:00 on 2024-07-11 the Nitrogen value (n value) was 114.21012541327968, Phosphorus value (p value) was 47.642006118071215, potassium value (k value) was 94.80118614620426, humidity was 81.98168679611372, soil pH was 6.643090796587708, and temperature was 28.30146073184741.
+
+For my Rice crop, at time 22:00:00 on 2024-07-11 the Nitrogen value (n value) was 95.89180769536752, Phosphorus value (p value) was 48.25268970079655, potassium value (k value) was 95.71982813230436, humidity was 87.4096849674358, soil pH was 6.43166413275401, and temperature was 29.376305516297915.
+
+For my Rice crop, at time 22:05:00 on 2024-07-11 the Nitrogen value (n value) was 82.43497887982643, Phosphorus value (p value) was 49.2727705691909, potassium value (k value) was 87.6239177055381, humidity was 89.1026455003995, soil pH was 6.895299318007368, and temperature was 32.270692956539854.
+
+For my Rice crop, at time 22:10:00 on 2024-07-11 the Nitrogen value (n value) was 104.90058556934542, Phosphorus value (p value) was 52.963372035276365, potassium value (k value) was 94.551840828615, humidity was 80.24912891082282, soil pH was 6.232108102262651, and temperature was 31.32537423953464.
+
+For my Rice crop, at time 22:15:00 on 2024-07-11 the Nitrogen value (n value) was 90.72828315832317, Phosphorus value (p value) was 56.57286937180271, potassium value (k value) was 81.8137283458942, humidity was 77.27958369126732, soil pH was 6.333783216853703, and temperature was 34.467746373539114.
+
+For my Rice crop, at time 22:20:00 on 2024-07-11 the Nitrogen value (n value) was 109.80460533208807, Phosphorus value (p value) was 49.31797908493468, potassium value (k value) was 98.22911439777393, humidity was 86.20857887374079, soil pH was 6.118069170997823, and temperature was 29.64141265907314.
+
+For my Rice crop, at time 22:25:00 on 2024-07-11 the Nitrogen value (n value) was 91.7855087010235, Phosphorus value (p value) was 57.65130068515131, potassium value (k value) was 97.2408979033672, humidity was 71.85516069890585, soil pH was 6.370985796862993, and temperature was 31.70989112479668.
+
+For my Rice crop, at time 22:30:00 on 2024-07-11 the Nitrogen value (n value) was 100.27924386969202, Phosphorus value (p value) was 38.243853507591055, potassium value (k value) was 90.35002943372906, humidity was 86.8845486843071, soil pH was 6.295668814437498, and temperature was 32.5967047830028.
+
+For my Rice crop, at time 22:35:00 on 2024-07-11 the Nitrogen value (n value) was 111.458716058503, Phosphorus value (p value) was 45.2088959124284, potassium value (k value) was 97.1169111414561, humidity was 80.49066013487662, soil pH was 6.840030057160362, and temperature was 29.666714994705792.
+
+For my Rice crop, at time 22:40:00 on 2024-07-11 the Nitrogen value (n value) was 105.93005152744172, Phosphorus value (p value) was 43.03256937837697, potassium value (k value) was 92.3929341453182, humidity was 72.6547691251232, soil pH was 6.027233425731387, and temperature was 31.43225421221164.
+
+For my Rice crop, at time 22:45:00 on 2024-07-11 the Nitrogen value (n value) was 117.44453316877552, Phosphorus value (p value) was 48.456931746582384, potassium value (k value) was 84.63597122581471, humidity was 80.40259534721221, soil pH was 6.271496963524416, and temperature was 35.90560760162254.
+
+For my Rice crop, at time 22:50:00 on 2024-07-11 the Nitrogen value (n value) was 108.27269507986632, Phosphorus value (p value) was 45.69171719906392, potassium value (k value) was 88.80978310287088, humidity was 85.85539662224532, soil pH was 6.130551933975205, and temperature was 35.66768294014271.
+
+For my Rice crop, at time 22:55:00 on 2024-07-11 the Nitrogen value (n value) was 108.26891497651911, Phosphorus value (p value) was 43.410587963637866, potassium value (k value) was 85.29720068435259, humidity was 80.03115433579099, soil pH was 6.714135447775517, and temperature was 28.78115376313012.
+
+For my Rice crop, at time 23:00:00 on 2024-07-11 the Nitrogen value (n value) was 111.909386609725, Phosphorus value (p value) was 43.66506066274112, potassium value (k value) was 93.21667067069436, humidity was 69.43355298817379, soil pH was 6.367600501993234, and temperature was 29.25821526409011.
+
+For my Rice crop, at time 23:05:00 on 2024-07-11 the Nitrogen value (n value) was 118.89695216880524, Phosphorus value (p value) was 41.5640114835559, potassium value (k value) was 89.17084852642452, humidity was 89.04058804681736, soil pH was 6.950576779055781, and temperature was 29.81195748000852.
+
+For my Rice crop, at time 23:10:00 on 2024-07-11 the Nitrogen value (n value) was 104.2536359000504, Phosphorus value (p value) was 51.216609755553804, potassium value (k value) was 95.2541805545947, humidity was 87.12467869595754, soil pH was 6.10059017020923, and temperature was 26.687088922504916.
+
+For my Rice crop, at time 23:15:00 on 2024-07-11 the Nitrogen value (n value) was 113.40807800961294, Phosphorus value (p value) was 58.39409971564888, potassium value (k value) was 89.84790945838027, humidity was 75.15088208730526, soil pH was 6.328374754535776, and temperature was 32.54489703083916.
+
+For my Rice crop, at time 23:20:00 on 2024-07-11 the Nitrogen value (n value) was 79.53126842816853, Phosphorus value (p value) was 43.31165867493159, potassium value (k value) was 89.66678876790112, humidity was 80.26216871185547, soil pH was 6.55174001006827, and temperature was 33.284191258324384.
+
+For my Rice crop, at time 23:25:00 on 2024-07-11 the Nitrogen value (n value) was 96.09263513848664, Phosphorus value (p value) was 56.93568434802289, potassium value (k value) was 90.81866108952738, humidity was 75.30240261345365, soil pH was 6.716791314742494, and temperature was 25.23457614040579.
+
+For my Rice crop, at time 23:30:00 on 2024-07-11 the Nitrogen value (n value) was 107.58902596373032, Phosphorus value (p value) was 45.726965319350285, potassium value (k value) was 91.9127967123868, humidity was 83.84895144716828, soil pH was 6.46072341291914, and temperature was 29.164394180756062.
+
+For my Rice crop, at time 23:35:00 on 2024-07-11 the Nitrogen value (n value) was 102.20983147011896, Phosphorus value (p value) was 52.71039481088755, potassium value (k value) was 86.56311934887036, humidity was 89.30476562281457, soil pH was 6.1374856420031785, and temperature was 32.411824205082134.
+
+For my Rice crop, at time 23:40:00 on 2024-07-11 the Nitrogen value (n value) was 109.75277921074796, Phosphorus value (p value) was 40.27130992286482, potassium value (k value) was 85.93100945362265, humidity was 71.71031751329252, soil pH was 6.277446191496319, and temperature was 34.18242033273612.
+
+For my Rice crop, at time 23:45:00 on 2024-07-11 the Nitrogen value (n value) was 96.06035529359504, Phosphorus value (p value) was 40.29693262747661, potassium value (k value) was 97.79262473528384, humidity was 75.0366399394171, soil pH was 6.940187869455476, and temperature was 28.27000457881894.
+
+For my Rice crop, at time 23:50:00 on 2024-07-11 the Nitrogen value (n value) was 93.1439839427782, Phosphorus value (p value) was 46.42765775882647, potassium value (k value) was 98.61651480017191, humidity was 77.72605900564054, soil pH was 6.599094990850087, and temperature was 30.046300811318616.
+
+For my Rice crop, at time 23:55:00 on 2024-07-11 the Nitrogen value (n value) was 107.5778182104808, Phosphorus value (p value) was 43.20214911930283, potassium value (k value) was 81.38617125104696, humidity was 70.53836374630866, soil pH was 6.1675246178680325, and temperature was 25.187153987076464.
+
+For my Rice crop, at time 00:00:00 on 2024-07-12 the Nitrogen value (n value) was 80.1305961391865, Phosphorus value (p value) was 54.4152105140942, potassium value (k value) was 84.13560379022731, humidity was 89.40563873144235, soil pH was 6.909319285687795, and temperature was 32.09866531690258.
+
+For my Rice crop, at time 12:45:00 on 2024-07-14 the Nitrogen value (n value) was 80.13, Phosphorus value (p value) was 54.415, potassium value (k value) was 84.13, humidity was 89.40, soil pH was 6.90, and temperature was 32.09.

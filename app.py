@@ -3,13 +3,14 @@ from time import sleep
 from query_rag import query_rag
 from populate_general_database import add_tuple_to_chroma
 
+
 app = Flask(__name__)
 
 CHROMA_PATH = "chroma"
 # SENSOR_DATA_PATH = "chromaSensorData"
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return jsonify({"response":"Welcome to the Chroma API"})
 
 @app.route("/query", methods=['POST'])
 def user_query():
