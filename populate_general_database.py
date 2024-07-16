@@ -1,4 +1,4 @@
-import argparse
+
 import os
 import shutil
 from langchain_community.document_loaders import TextLoader, PyPDFDirectoryLoader, DirectoryLoader
@@ -7,6 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores import Chroma
+from pypdf.errors import PdfStreamError
 
 
 CHROMA_PATH = "chroma"
@@ -26,17 +27,37 @@ def main():
     # Create (or update) the data store.
     documents = load_documents()
     pdfs = load_pdf()
-    table = load_table()
+    # table = load_table()
     chunks = split_documents(documents)
     pdf_chunks = split_documents(pdfs)
-    table_chunks = split_documents(table)
+    # table_chunks = split_documents(table)
     add_to_chroma(chunks)
     add_to_chroma(pdf_chunks)
-    add_to_chroma(table_chunks)
+    # add_to_chroma(table_chunks)
 
 def add_tuple_to_chroma(tuple):
+    timestamp = tuple['timestamp']
+    date, time = timestamp.split(' ')
+    
+    # Extract the parameters
+    N = tuple['N']
+    P = tuple['P']
+    K = tuple['K']
+    humidity = tuple['humidity']
+    soil_pH = tuple['soil_pH']
+    temperature = tuple['temperature']
+    soil_moisture = tuple["soil_moisture"]
+    crop_name = tuple['crop_name']
+    
+    # Create the formatted string
+    formatted_string = (
+        f"For my {crop_name} crop, "
+        f"at time {time} on {date} the Nitrogen value (n value) was {N}, "
+        f"Phosphorus value (p value) was {P}, potassium value (k value) was {K}, soil moisture was {soil_moisture}, "
+        f"humidity was {humidity}, soil pH was {soil_pH}, and temperature was {temperature}.\n"
+    )
     with open("data/temp.txt", "w") as f:
-        f.write(tuple)
+        f.write(formatted_string)
     documents = TextLoader("data/temp.txt").load()
     chunks = split_documents(documents)
     add_to_chroma(chunks)
@@ -90,7 +111,14 @@ def add_to_chroma(chunks: list[Document]):
     if len(new_chunks):
         print(f"👉 Adding new documents: {len(new_chunks)}")
         new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
-        db.add_documents(new_chunks, ids=new_chunk_ids)
+        try:
+            db.add_documents(new_chunks, ids=new_chunk_ids)
+        except PdfStreamError as e:  # Catching PdfStreamError specifically
+            print(f"🚨 Error adding documents to the database: {e}")
+        # Optionally, log the ID of the chunk or file causing the error
+            print(f"Skipping file due to error: {new_chunk_ids}")
+        except Exception as e:  # Catching any other exceptions
+            print(f"🚨 An unexpected error occurred: {e}")
         db.persist()
     else:
         print("✅ No new documents to add")

@@ -36,12 +36,16 @@ def generate_rice_crop_dataset(start_time, end_time, interval_minutes=5):
   }
 
   df = pd.DataFrame(data, index=time_index)
+  # Round off specific columns
+  df = df.round(3)
+
+# Now, df has its specified columns rounded off to the defined number of decimal places
   df['crop_name'] = 'Rice'
   return df
 
 # Example usage
-start_time = datetime.datetime(2024, 7, 11, 0, 0)
-end_time = start_time + datetime.timedelta(days=1)
+start_time = datetime.datetime(2024, 7, 13, 0, 0)
+end_time = start_time + datetime.timedelta(days=3)
 dataset = generate_rice_crop_dataset(start_time, end_time)
 dataset.index.name = 'timestamp'
 dataset.to_csv('rice_crop_dataset.csv')
