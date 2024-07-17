@@ -2,7 +2,6 @@
 import os
 import shutil
 from langchain_community.document_loaders import TextLoader, PyPDFDirectoryLoader, DirectoryLoader
-# from langchain.document_loaders.pdf import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
@@ -40,28 +39,39 @@ def add_tuple_to_chroma(tuple):
     date, time = timestamp.split(' ')
     
     # Extract the parameters
-    N = tuple['N']
-    P = tuple['P']
-    K = tuple['K']
-    humidity = tuple['humidity']
-    soil_pH = tuple['soil_pH']
-    temperature = tuple['temperature']
-    soil_moisture = tuple["soil_moisture"]
+    key = tuple['key']
+    N = round(tuple['N'], 3)
+    P = round(tuple['P'], 3)
+    K = round(tuple['K'], 3)
+    humidity = round(tuple['humidity'], 3)
+    temperature = round(tuple['temperature'], 3)
+    soil_moisture = round(tuple["soilMoisture"], 3)
     crop_name = tuple['crop_name']
+    formatted_string = ""
     
     # Create the formatted string
-    formatted_string = (
-        f"For my {crop_name} crop, "
-        f"at time {time} on {date} the Nitrogen value (n value) was {N}, "
-        f"Phosphorus value (p value) was {P}, potassium value (k value) was {K}, soil moisture was {soil_moisture}, "
-        f"humidity was {humidity}, soil pH was {soil_pH}, and temperature was {temperature}.\n"
+    if (N == 0 and P == 0 and K == 0):
+        formatted_string = (
+        f"For my {crop_name}, "
+        f"at time {time} on {date} the soil moisture was {soil_moisture}, "
+        f"humidity was {humidity}, and temperature was {temperature}.\n"
     )
-    with open("data/temp.txt", "w") as f:
+    else:
+        formatted_string = (
+            f"For my {crop_name} crop, "
+            f"at time {time} on {date} the Nitrogen value (n value) was {N}, "
+            f"Phosphorus value (p value) was {P}, potassium value (k value) was {K}, soil moisture was {soil_moisture}, "
+            f"humidity was {humidity}, and temperature was {temperature}.\n"
+        )
+
+    file_name = f"data/temp{key}.txt"
+    with open(file_name, "w") as f:
         f.write(formatted_string)
-    documents = TextLoader("data/temp.txt").load()
+    documents = TextLoader(file_name).load()
     chunks = split_documents(documents)
     add_to_chroma(chunks)
-    os.remove("data/temp.txt")
+    os.remove(file_name)
+    print(formatted_string)
 
 def load_table():
     table_loader = TextLoader("data/sensor_log.txt")

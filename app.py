@@ -27,10 +27,11 @@ def user_query():
 def populate():
     data = request.get_json()
     row = data['tuple']
-    # add_tuple_to_chroma(row)
-    print(row)
+    add_tuple_to_chroma(row)
+    response = make_response(jsonify({"response":"Populating the database"}))
+    response.status_code = 200
 
-    return jsonify({"response":"Populating the database. This may take a while."})
+    return response
 
 
 if __name__ == "__main__":
