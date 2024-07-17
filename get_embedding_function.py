@@ -1,5 +1,6 @@
 from langchain_community.embeddings.ollama import OllamaEmbeddings
-from langchain_community.embeddings.bedrock import BedrockEmbeddings
+from langchain.text_splitter import TokenTextSplitter
+from langchain.schema.document import Document
 
 
 def get_embedding_function():

@@ -7,6 +7,7 @@ from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores import Chroma
 from pypdf.errors import PdfStreamError
+from random import randint
 
 
 CHROMA_PATH = "chroma"
@@ -64,14 +65,13 @@ def add_tuple_to_chroma(tuple):
             f"humidity was {humidity}, and temperature was {temperature}.\n"
         )
 
-    file_name = f"data/temp{key}.txt"
+    file_name = f"data/temp{key * randint(1, 14)}.txt"
     with open(file_name, "w") as f:
         f.write(formatted_string)
     documents = TextLoader(file_name).load()
     chunks = split_documents(documents)
     add_to_chroma(chunks)
     os.remove(file_name)
-    print(formatted_string)
 
 def load_table():
     table_loader = TextLoader("data/sensor_log.txt")
