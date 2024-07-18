@@ -22,7 +22,7 @@ Answer the question based on the following context and if you don't know the ans
 Answer the question based on the above context and if you don't know the answer, use your own knowledge: {question}
 """
 NEW_PROMPT_TEMPLATE = """
-Provide a clear and concise answer to the question below based on the context related to plants. Do not include any phrases that indicate the source of the information. if you can't answer the question, say you don't know and urge them to ask questions related to the context.
+Provide a clear and concise answer to the question below based on the context given. Do not include any phrases that indicate the source of the information. if you can't answer the question, say you don't know and urge them to ask questions related to the context.
 If they say hi, hello or sny other greeting words, greet them back simply.:
 {context}
 

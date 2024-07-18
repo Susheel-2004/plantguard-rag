@@ -3,6 +3,8 @@ from time import sleep
 from query_rag import query_rag
 from populate_general_database import add_tuple_to_chroma
 from flask_cors import CORS
+import os
+import signal
 
 
 app = Flask(__name__)
@@ -33,6 +35,19 @@ def populate():
 
     return response
 
+def shutdown_server():
+    pid = os.getpid()  # Get the process ID of the Flask server
+    os.kill(pid, signal.SIGINT)  # Send a SIGINT signal to the process
 
+@app.route('/shutdown', methods=['POST'])
+def shutdown():
+    data = request.get_json()
+    if data['password'] == 'shutdown':
+        shutdown_server()
+        return 'Server shutting down...'
+    response = make_response(jsonify({"response":"Incorrect password"}))
+    response.status_code = 401
+    return response
+    
 if __name__ == "__main__":
     app.run(debug=True)
