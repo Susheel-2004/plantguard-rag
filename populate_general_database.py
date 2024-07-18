@@ -15,25 +15,14 @@ DATA_PATH = "data"
 
 
 def main():
-
-    # Check if the database should be cleared (using the --clear flag).
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("--reset", action="store_true", help="Reset the database.")
-    # args = parser.parse_args()
-    # if args.reset:
-    #     print("✨ Clearing Database")
     # clear_database()
 
-    # Create (or update) the data store.
     documents = load_documents()
     pdfs = load_pdf()
-    # table = load_table()
     chunks = split_documents(documents)
     pdf_chunks = split_documents(pdfs)
-    # table_chunks = split_documents(table)
     add_to_chroma(chunks)
     add_to_chroma(pdf_chunks)
-    # add_to_chroma(table_chunks)
 
 def add_tuple_to_chroma(tuple):
     timestamp = tuple['timestamp']

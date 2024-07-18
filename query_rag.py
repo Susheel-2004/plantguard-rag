@@ -1,17 +1,12 @@
 from langchain_community.vectorstores import Chroma
-# from langchain.utilities import SQLDatabase
-# from langchain_experimental.sql import SQLDatabaseChain
-# from langchain.schema import HumanMessage, SystemMessage
-from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate
+from langchain.prompts import ChatPromptTemplate
 from langchain_community.llms.ollama import Ollama
-# from langchain_community.chat_models import ChatOllama
 from get_embedding_function import get_embedding_function
 import textwrap
 
 
 
 CHROMA_PATH = "chroma"
-SENSOR_DATA_PATH = "chromaSensorData"
 PROMPT_TEMPLATE = """
 Answer the question based on the following context and if you don't know the answer, use your own knowledge.:
 

@@ -11,7 +11,6 @@ app = Flask(__name__)
 CORS(app)
 
 CHROMA_PATH = "chroma"
-# SENSOR_DATA_PATH = "chromaSensorData"
 @app.route('/')
 def home():
     return render_template('index.html')
