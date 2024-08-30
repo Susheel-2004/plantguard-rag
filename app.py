@@ -11,6 +11,9 @@ app = Flask(__name__)
 CORS(app)
 
 CHROMA_PATH = "chroma"
+
+
+
 @app.route('/')
 def home():
     return render_template('index.html')
@@ -42,8 +45,10 @@ def shutdown_server():
 def shutdown():
     data = request.get_json()
     if data['password'] == 'shutdown':
+        response = make_response(jsonify({"response":"server shutting down"}))
+        response.status_code = 200
         shutdown_server()
-        return 'Server shutting down...'
+        return response
     response = make_response(jsonify({"response":"Incorrect password"}))
     response.status_code = 401
     return response
