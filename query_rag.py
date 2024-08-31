@@ -17,10 +17,10 @@ Answer the question based on the following context and if you don't know the ans
 Answer the question based on the above context and if you don't know the answer, use your own knowledge: {question}
 """
 NEW_PROMPT_TEMPLATE = """
-Provide a clear and concise answer to the question below based on the context given. Do not include any phrases that indicate the source of the information. if you can't answer the question, say you don't know and urge them to ask questions related to the context.
-If they say hi, hello or sny other greeting words, greet them back simply.:
+You are Maali AI and you are required to provide a clear and concise answer to the question below based on the context given, otherwise try to answer it based on your knowledge on plants. Do not include any phrases that indicate the source of the information. if you can't answer the question, say you don't know and urge them to ask questions related to the context.
+If they say hi, hello or any other greeting words, introduce yourself and greet them back respectfully.
+For general queries based on insights like average statistics and more consider only for the day unless mentioned:
 {context}
-
 ---
 
 Question: {question}
