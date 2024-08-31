@@ -2,15 +2,21 @@ from flask import Flask, request, render_template, jsonify, make_response
 from time import sleep
 from query_rag import query_rag
 from populate_general_database import add_tuple_to_chroma
+from flask_cors import CORS
+import os
+import signal
 
 
 app = Flask(__name__)
+CORS(app)
 
 CHROMA_PATH = "chroma"
-# SENSOR_DATA_PATH = "chromaSensorData"
+
+
+
 @app.route('/')
 def home():
-    return jsonify({"response":"Welcome to the Chroma API"})
+    return render_template('index.html')
 
 @app.route("/query", methods=['POST'])
 def user_query():
@@ -26,10 +32,26 @@ def populate():
     data = request.get_json()
     row = data['tuple']
     add_tuple_to_chroma(row)
-    print(row)
+    response = make_response(jsonify({"response":"Populating the database"}))
+    response.status_code = 200
 
-    return jsonify({"response":"Populating the database. This may take a while."})
+    return response
 
+def shutdown_server():
+    pid = os.getpid()  # Get the process ID of the Flask server
+    os.kill(pid, signal.SIGINT)  # Send a SIGINT signal to the process
 
+@app.route('/shutdown', methods=['POST'])
+def shutdown():
+    data = request.get_json()
+    if data['password'] == 'shutdown':
+        response = make_response(jsonify({"response":"server shutting down"}))
+        response.status_code = 200
+        shutdown_server()
+        return response
+    response = make_response(jsonify({"response":"Incorrect password"}))
+    response.status_code = 401
+    return response
+    
 if __name__ == "__main__":
     app.run(debug=True)

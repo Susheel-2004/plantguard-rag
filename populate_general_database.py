@@ -1,12 +1,13 @@
-import argparse
+
 import os
 import shutil
 from langchain_community.document_loaders import TextLoader, PyPDFDirectoryLoader, DirectoryLoader
-# from langchain.document_loaders.pdf import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores import Chroma
+from pypdf.errors import PdfStreamError
+from random import randint
 
 
 CHROMA_PATH = "chroma"
@@ -14,33 +15,52 @@ DATA_PATH = "data"
 
 
 def main():
-
-    # Check if the database should be cleared (using the --clear flag).
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("--reset", action="store_true", help="Reset the database.")
-    # args = parser.parse_args()
-    # if args.reset:
-    #     print("✨ Clearing Database")
     # clear_database()
 
-    # Create (or update) the data store.
     documents = load_documents()
     pdfs = load_pdf()
-    table = load_table()
     chunks = split_documents(documents)
     pdf_chunks = split_documents(pdfs)
-    table_chunks = split_documents(table)
     add_to_chroma(chunks)
     add_to_chroma(pdf_chunks)
-    add_to_chroma(table_chunks)
 
 def add_tuple_to_chroma(tuple):
-    with open("data/temp.txt", "w") as f:
-        f.write(tuple)
-    documents = TextLoader("data/temp.txt").load()
+    timestamp = tuple['timestamp']
+    date, time = timestamp.split(' ')
+    
+    # Extract the parameters
+    key = tuple['key']
+    N = round(tuple['N'], 3)
+    P = round(tuple['P'], 3)
+    K = round(tuple['K'], 3)
+    humidity = round(tuple['humidity'], 3)
+    temperature = round(tuple['temperature'], 3)
+    soil_moisture = round(tuple["soilMoisture"], 3)
+    crop_name = tuple['crop_name']
+    formatted_string = ""
+    
+    # Create the formatted string
+    if (N == 0 and P == 0 and K == 0):
+        formatted_string = (
+        f"For my {crop_name}, "
+        f"at time {time} on {date} the soil moisture was {soil_moisture}, "
+        f"humidity was {humidity}, and temperature was {temperature}.\n"
+    )
+    else:
+        formatted_string = (
+            f"For my {crop_name} crop, "
+            f"at time {time} on {date} the Nitrogen value (n value) was {N}, "
+            f"Phosphorus value (p value) was {P}, potassium value (k value) was {K}, soil moisture was {soil_moisture}, "
+            f"humidity was {humidity}, and temperature was {temperature}.\n"
+        )
+
+    file_name = f"data/temp{key * randint(1, 14)}.txt"
+    with open(file_name, "w") as f:
+        f.write(formatted_string)
+    documents = TextLoader(file_name).load()
     chunks = split_documents(documents)
     add_to_chroma(chunks)
-    os.remove("data/temp.txt")
+    os.remove(file_name)
 
 def load_table():
     table_loader = TextLoader("data/sensor_log.txt")
@@ -90,7 +110,14 @@ def add_to_chroma(chunks: list[Document]):
     if len(new_chunks):
         print(f"👉 Adding new documents: {len(new_chunks)}")
         new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
-        db.add_documents(new_chunks, ids=new_chunk_ids)
+        try:
+            db.add_documents(new_chunks, ids=new_chunk_ids)
+        except PdfStreamError as e:  # Catching PdfStreamError specifically
+            print(f"🚨 Error adding documents to the database: {e}")
+        # Optionally, log the ID of the chunk or file causing the error
+            print(f"Skipping file due to error: {new_chunk_ids}")
+        except Exception as e:  # Catching any other exceptions
+            print(f"🚨 An unexpected error occurred: {e}")
         db.persist()
     else:
         print("✅ No new documents to add")
